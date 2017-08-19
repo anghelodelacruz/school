@@ -1,0 +1,158 @@
+#+SETUPFILE: setup.org
+#+TITLE: Monetary Policy
+
+
+* TODO Monetary Policy
+  
+Relies on changing the level of interest rates to alter the cost,
+demand and availability of credit. It has fast impact and does not
+require the involvement of parliament.
+
+** Role of RBA:
+
+- banker to the government, banks, and NBFIs (Non-bank Financial
+  Institute)
+- Issues notes and coins
+- custodian of overseas currency reserves
+
+*Priority* is low inflation; as it is a precondition to achieving
+ consumer and business confidence.
+
+RBA board meets monthly on Tuesday (except January), and considers the
+following economic data:
+
+- Quarterly trends in headline CPI
+- Spending levels (C), (I)
+  - Building approvals
+  - Household debt
+- Unemployment rate
+  - Job vaccancies
+  - Participation
+- Overseas markets
+- Government budgetary stance.
+
+Monetary Policy works in a counter cylical pattern.
+
+** Definition
+
+Monetary policy is operated by the RBA on behalf of the government and
+involves the manipulation of key financial variables in the economy
+(primarily interest rates) in order to achieve specific economic goals
+and ultimately improve the living standards or welfare of all
+Australians. The medium term objective is 'stability of the
+currency', which the RBA currently defines as price stability, where
+consumer price inflation is kept between 2 and 3 per cent, on average,
+over time.
+
+The RBA will only be concerned if inflation is outside the range for a
+'sustained' period. Once low inflation is achieved, the RBA can then
+focus on policy decisions that assist in the attainment.
+
+** Objectives
+
+- the stability of the currency of Australia
+- the maintenance of full employment in Australia
+- the economic prosperity and welfare of the people of the Australia.
+
+Monetary policy will generally be useed in a counter-cyclical way to
+boost activity when inflation and growth are low and restrain activity
+when inflation and growth are high.
+
+*** Underlying rate of Inflation
+
+
+
+*** Financial Stability
+
+
+
+** Implementation
+
+** Cash rate and Open Market Operations
+
+The RBA manipulates the cash rate by buying and selling *Commonwealth
+Government Securities (CGS)* or repurchase agreements (repos) to
+participants in the cash market (primarily banks). This manipulation
+of the cash market is commonly referred to as *open market operations
+(OMOs)* or domestic market operations.
+
+*** Diagram 11.1 Pg 310
+
+*** Target Cash Rate
+
+** Monetary Policy Tightening / Loosening
+
+
+
+** Monetary Policy Settings
+
+** Tranmission Mechanism
+
+*** Cost of Credit Channel (Savings and Investment)
+
+*** Cash Flow Channel
+
+*** Availability of Money / Credit Channel
+
+*** Asset Values / Asset Price Channel
+
+*** Exchange Rate Channel
+
+** Exchange rate intervention
+
+
+
+** Strengths and weeknesses of Monetary Policy
+
+*** Strengths
+
+- Free from political bias
+- Short Implementation lag
+- Powerful influence on consumers, investors, borrowers or lenders
+- Good at restraining AD as policy reduces discretionary income of
+  indebted households.
+
+*** Weaknesses
+
+- Is one dimensional and unable to concentrate its affect on a speicific area
+- Full impact can take up to two years (Impact lag)
+- RBA does not have direct control over interest rates. This could
+  mean financial insitutions won't pass on 'in full' the reductions in
+  the cash rate.
+- A reduction in interest rates may not immediately increase AD
+  because consumers are not forced to spend any increase in
+  discretionary income.
+- Policy becomes less effectve as levels of private sector
+  indebtedness increase to high levels.
+- Policy cannot directly reduce inflationary pressures that are
+  generated from the supply side of the economy (cost inflation). This
+  will instead only ignite demand inflationary pressures, worsening
+  inflation overall.
+
+  
+* TODO Monetary Policy in Action
+
+** Price Stability
+
+** Stronger Economic Growth and Employment
+
+** Stabilisation of the Business Cycle
+
+** Living Standards
+
+** Specific Policy Changes Over the Cycle
+
+|          Year | Policy Stance | Monetary Policy                                         | Context                                                                                             |
+|     Late 2007 |               |                                                         | Economic Growth relatively high. Economy capacity constraints.                                      |
+|    Early 2008 | Restrictive   |                                                         | Inflaion 5%                                                                                         |
+|      Mid 2008 |               |                                                         | GFC                                                                                                 |
+|          2009 |               |                                                         | Target rate falling to 'emergency levels' of 3%                                                     |
+| November 2010 |               |                                                         | RBA concerned about the emergence of capacity constraints and the implications for inflation        |
+|          2011 | Restrictive   |                                                         |                                                                                                     |
+|     2011-2012 | Loosened      | Reduced target cash rate back to 3% by December by 2012 |                                                                                                     |
+|          2013 | Loosened      | Target cash rate 2.5% by August 2013                    |                                                                                                     |
+|          2014 |               | Target cash rate remained at 2.5% through 2014          | 'Persistance' with expansionary stance                                                              |
+|          2015 |               |                                                         | Falling TOT, RBA felt stimulus was required                                                         |
+|     Late 2015 |               |                                                         | Economy performing relatively poorly, economic growth below trend, Unemployment at 6.3% August 2015 |
+|               |               |                                                         |                                                                                                     |
+

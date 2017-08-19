@@ -1,0 +1,55 @@
+#+SETUPFILE: setup.org
+#+TITLE: Sketching 2
+#+OPTIONS: num:nil
+
+* Curve Sketching
+
+** Domain
+
+If the following exist the domain will be restricted:
+
+\begin{align*}
+\dfrac{a}{0} & &\sqrt{-\#}
+\end{align*}
+
+** Intercepts
+
+Find intercepts using the following:
+
+\begin{align*}
+\text{y-intercepts} &\rightarrow \text{Let } x=0\\
+\text{x-intercepts} &\rightarrow \text{Let } y=0
+\end{align*}
+
+** Symmetry
+
+Symmetry exists when:
+
+\begin{align*}
+&\text{Symmetry around y-axis } & &\text{Symmetry about origin} \\
+&\rightarrow f(-x) = f(x) & &\rightarrow f(-x) = -f(x)
+\end{align*}
+
+** Asymptotes Pg 13
+
+Vertical asymptotes occur when:
+
+$$\dfrac{a}{0}$$
+
+Horizontal asymptotes occur when:
+
+L'Hopital's Rule 
+
+Oblique asymptotes
+
+** Intervals of Increase / Decrease
+
+** Local Min / Max
+
+** Concavity and Inflation
+
+** Sketch
+
+** Reciprocal Functions
+** Rational Functions
+** Circles, ellipses and hyperbolas

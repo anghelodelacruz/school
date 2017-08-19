@@ -1,0 +1,60 @@
+#+SETUPFILE: setup.org
+#+TITLE: Algorithm Analysis Tools 1111
+
+* Algorithm Analysis Tools
+
+** Mathematical Theory
+
+*** Summation Notation
+
+Summation is the addition of numbers and is
+specified by a rule defined in the notation using the upper case Greek
+letter sigma $\sum$.
+
+$\sum_{i=1}^{n} i = 1 + 2 + 3 + \dots + n$
+
+- i is the index of summation
+- 1 is the starting point (lower limit ofsummation)
+- n is the stopping point (upper limit of summation)
+- i is the summation element
+
+When we use the summation symbol, it is useful to remember the following rules:
+
+\begin{align*}
+\end{align*}
+
+*** Double Sum
+
+In certain situations, using a double sum may be necessary.
+
+
+which can be visualised as the sum of items of matrix:
+
+*** Double Index
+
+To represent the data of a table or a matrix, double index notation is
+commonly used. Where $x_{ij}$ corresponds to the $i$th row and the
+$j$th column item.
+
+* Recurrence Relations
+
+** Arithmetic Sequence
+
+This is a *linear* changing sequence shown by:
+
+*Example*
+
+
+** Geometric Sequence
+
+This is an *exponential* changng sequence shown by:
+
+
+* Proof by Induction
+
+There are 4 steps of math induction:
+
+- Show $P(1)$
+- Assume $P(k)$
+- Show $P(k) \rightarrow P(k+1)$
+
