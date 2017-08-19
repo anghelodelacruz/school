@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Budgetary Policy</title>
+<!-- 2017-08-19 Sat 19:27 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Anghelo De La Cruz" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" href="css/worg.css" type="text/css" media="screen" />
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script><script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [ ['$','$'], ["\\(","\\)"] ],processEscapes: true}});</script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js" type="text/javascript"></script>
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script><script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [ ['$','$'], ["\\(","\\)"] ],processEscapes: true}});</script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js" type="text/javascript"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/javascript" src="http://orgmode.org/mathjax/MathJax.js"></script>
+<script type="text/javascript">
+<!--/*--><![CDATA[/*><!--*/
+    MathJax.Hub.Config({
+        // Only one of the two following lines, depending on user settings
+        // First allows browser-native MathML display, second forces HTML/CSS
+        //  config: ["MMLorHTML.js"], jax: ["input/TeX"],
+            jax: ["input/TeX", "output/HTML-CSS"],
+        extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js",
+                     "TeX/noUndefined.js"],
+        tex2jax: {
+            inlineMath: [ ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"], ["\\begin{displaymath}","\\end{displaymath}"] ],
+            skipTags: ["script","noscript","style","textarea","pre","code"],
+            ignoreClass: "tex2jax_ignore",
+            processEscapes: false,
+            processEnvironments: true,
+            preview: "TeX"
+        },
+        showProcessingMessages: true,
+        displayAlign: "center",
+        displayIndent: "2em",
+
+        "HTML-CSS": {
+             scale: 100,
+             availableFonts: ["STIX","TeX"],
+             preferredFont: "TeX",
+             webFont: "TeX",
+             imageFont: "TeX",
+             showMathMenu: true,
+        },
+        MMLorHTML: {
+             prefer: {
+                 MSIE:    "MML",
+                 Firefox: "MML",
+                 Opera:   "HTML",
+                 other:   "HTML"
+             }
+        }
+    });
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Budgetary Policy</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Nature and Operation of Budgetary Policy</a>
+<ul>
+<li><a href="#sec-1-1">1.1. Definition</a></li>
+<li><a href="#sec-1-2">1.2. Objectives</a></li>
+<li><a href="#sec-1-3">1.3. Composition of Revenue and Expenses</a></li>
+<li><a href="#sec-1-4">1.4. Budget Outcomes</a>
+<ul>
+<li><a href="#sec-1-4-1">1.4.1. Headline Cash Outcome</a></li>
+<li><a href="#sec-1-4-2">1.4.2. Underlying Cash Outcome</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-5">1.5. Automatic and Discretionary Stabilisers</a>
+<ul>
+<li><a href="#sec-1-5-1">1.5.1. Autmoatic</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-6">1.6. Fiscal Drag / Bracket Creep</a></li>
+<li><a href="#sec-1-7">1.7. Actual and Estimated Budget Outcomes</a></li>
+<li><a href="#sec-1-8">1.8. Expansionary v. Contractionary Budgets</a>
+<ul>
+<li><a href="#sec-1-8-1">1.8.1. Budget Deficit vs Budget Surplus</a></li>
+<li><a href="#sec-1-8-2">1.8.2. Changes to the size of the deficit or surplus</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-9">1.9. Financing a Deficit / Investing a Surplus</a>
+<ul>
+<li><a href="#sec-1-9-1">1.9.1. Budget Deficit \(R < E\)</a></li>
+<li><a href="#sec-1-9-2">1.9.2. Budget Surplus \(R > E\)</a></li>
+<li><a href="#sec-1-9-3">1.9.3. Problems with an expansionary budget deficit</a></li>
+<li><a href="#sec-1-9-4">1.9.4. Dealing witha budget surplus</a></li>
+<li><a href="#sec-1-9-5">1.9.5. Fiscal consolidation and the rationale for delivering a budget surplus</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-10">1.10. <span class="todo TODO">TODO</span> Budget and Economic Goals</a>
+<ul>
+<li><a href="#sec-1-10-1">1.10.1. Stablising the business cycle</a></li>
+<li><a href="#sec-1-10-2">1.10.2. Changing role of Budgetary Policy</a></li>
+<li><a href="#sec-1-10-3">1.10.3. Budgetary policy and low inflation</a></li>
+<li><a href="#sec-1-10-4">1.10.4. Budgetary policy and strong and sustainable growth</a></li>
+<li><a href="#sec-1-10-5">1.10.5. Budgetary policy and ull employment</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-11">1.11. <span class="todo TODO">TODO</span> Budgetary Policy and Living Standards</a></li>
+<li><a href="#sec-1-12">1.12. Strengths and weaknesses of Budgetary Policy</a>
+<ul>
+<li><a href="#sec-1-12-1">1.12.1. Strengths</a></li>
+<li><a href="#sec-1-12-2">1.12.2. Weakness</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-2">2. Budgetary policy in Action</a>
+<ul>
+<li><a href="#sec-2-1">2.1. Recent use of the budget</a></li>
+<li><a href="#sec-2-2">2.2. Evaluating the effectiveness of budgetary policy</a></li>
+<li><a href="#sec-2-3">2.3. Specific budgetary policy initiatives</a></li>
+<li><a href="#sec-2-4">2.4. Budget Examples</a>
+<ul>
+<li><a href="#sec-2-4-1">2.4.1. Growth</a></li>
+<li><a href="#sec-2-4-2">2.4.2. Unemployement</a></li>
+<li><a href="#sec-2-4-3">2.4.3. Inflation</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Nature and Operation of Budgetary Policy</h2>
+<div class="outline-text-2" id="text-1">
+</div><div id="outline-container-sec-1-1" class="outline-3">
+<h3 id="sec-1-1"><span class="section-number-3">1.1</span> Definition</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Budgetary policy (Also known as Fiscal Policy) refers to the
+manipulation of the level and composition of Federal Government
+receipts and outlays in order to assist in the achievement of its
+economic and social goals for Australia. It is released annually each
+May and contains estimates or projections of all income and
+expenditure of the Government into the future. Though introduced in
+May, new measures or 'mini budgets' can be taken by the Government.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-2" class="outline-3">
+<h3 id="sec-1-2"><span class="section-number-3">1.2</span> Objectives</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+The goal of all policies is to improve the welfare or living standards
+of all Australians and to achieve the most efficient allocation of the
+nation's resources.
+</p>
+
+<p>
+This is achieved by:
+</p>
+
+<ul class="org-ul">
+<li>Strong and sustainable economic growth
+</li>
+<li>Low inflation
+</li>
+<li>Full Employment
+</li>
+</ul>
+
+<p>
+This is clearly articulated in Government legislation (Charter of
+Budget Honesty Act 1998)
+</p>
+
+<blockquote>
+<p>
+The Government's fiscal policy is to be directed at maintaining the
+on-going economic prosperity and welfare of the people of Australia
+and is therefore to be set in a sustainable medium-term framework.
+</p>
+</blockquote>
+</div>
+</div>
+
+<div id="outline-container-sec-1-3" class="outline-3">
+<h3 id="sec-1-3"><span class="section-number-3">1.3</span> Composition of Revenue and Expenses</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+The Federal Government collects approximately $411 billion per annum
+in receipts from various sources.
+</p>
+
+
+<div class="figure">
+<p><img src="./images/Receipts.jpg" alt="Receipts.jpg" width="600px" />
+</p>
+</div>
+
+<div class="figure">
+<p><img src="./images/Expenditure.jpg" alt="Expenditure.jpg" width="600px" />
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-sec-1-4" class="outline-3">
+<h3 id="sec-1-4"><span class="section-number-3">1.4</span> Budget Outcomes</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+The Budget can have three possible outcomes:
+</p>
+
+
+\begin{align*}
+        \text{Budget Balance} &= \text{Income(receipts)} = \text{Expenditure(outlays)}\\
+    \text{Budget Deficit} &= \text{Income} < \text{Expenditure}\\
+    \text{Budget Surplus} &= \text{Income} > \text{Expenditure}
+\end{align*}
+
+<p>
+There are also several ways the Commonwealth Government will report
+these outcomes.
+</p>
+</div>
+
+<div id="outline-container-sec-1-4-1" class="outline-4">
+<h4 id="sec-1-4-1"><span class="section-number-4">1.4.1</span> Headline Cash Outcome</h4>
+<div class="outline-text-4" id="text-1-4-1">
+<p>
+This is the total cash received by the Federal Government subtracted
+by the total cash paid. This can be misleading as it includes cash
+flows that do not directly impact on the economy.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-4-2" class="outline-4">
+<h4 id="sec-1-4-2"><span class="section-number-4">1.4.2</span> Underlying Cash Outcome</h4>
+<div class="outline-text-4" id="text-1-4-2">
+<p>
+This is the total cash received by the Federal Government subtracted
+by the total cash paid. This can be misleading as it includes cash
+flows that do not directly impact on the economy.
+</p>
+
+<dl class="org-dl">
+<dt> Future Fund Earnings </dt><dd>- interest and dividends earned by
+government owned 'Future fund'. Excluded as earnings are mandated
+to be reinvested.
+</dd>
+<dt> IFAAP </dt><dd>- Investments in financial assets for policy purposes;
+including sale of government business enterprise (GBE),
+purchases of shares by the government or granting or
+repaying State Government debt. Excluded as does not
+directly add to economic activity
+</dd>
+</dl>
+
+<p>
+To illustrate (using hypothetical figures):
+</p>
+
+
+<div class="figure">
+<p><img src="./images/Cash_Outcome.png" alt="Cash_Outcome.png" width="400px" />
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-1-5" class="outline-3">
+<h3 id="sec-1-5"><span class="section-number-3">1.5</span> Automatic and Discretionary Stabilisers</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Stabilisers - help to dampen the severity of booms and recessions in the business cycles.
+</p>
+
+<p>
+2 types: 
+</p>
+
+<dl class="org-dl">
+<dt> Discretionary </dt><dd>fiscal / budgetary policy determined by the
+government as per the annual budget
+</dd>
+<dt> Automatic </dt><dd>changes to the budget that occur automatically following changs in the level of economic activity
+</dd>
+</dl>
+</div>
+
+<div id="outline-container-sec-1-5-1" class="outline-4">
+<h4 id="sec-1-5-1"><span class="section-number-4">1.5.1</span> Autmoatic</h4>
+<div class="outline-text-4" id="text-1-5-1">
+<dl class="org-dl">
+<dt> Boom </dt><dd>rising AD &rarr; higher employment, incomes and
+profits
+<ul class="org-ul">
+<li>Government tax revenues increases and welfare spending decreases
+</li>
+<li>Fiscal system is automatically becoming contractionary
+</li>
+</ul>
+</dd>
+<dt> Recession </dt><dd>falling AD &rarr; higher unemployment,
+lower incomes and profits.
+<ul class="org-ul">
+<li>Government tax revenues decreases and welfare payments increases
+</li>
+<li>Fiscal situation is automatically becoming expansionary
+</li>
+</ul>
+</dd>
+</dl>
+
+<p>
+Discretionary stabilisers are used when the automatic stabiliser are
+not enough to correct a server boom or recession.
+</p>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-sec-1-6" class="outline-3">
+<h3 id="sec-1-6"><span class="section-number-3">1.6</span> Fiscal Drag / Bracket Creep</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+This occurs during times of inflation for countries with a progressive
+tax system. When inflation occurs there is a decrease in the real wage
+and workers will demand an increase in nominal wage to keep up with
+inflatiion.
+</p>
+
+<p>
+When the nominal wage increases, some workers are pushed into a higher
+marginal tax bracket which increases the 'average' rate of tax paid.
+</p>
+
+<p>
+These have two effects:
+</p>
+
+<ul class="org-ul">
+<li>Increases the total personal income tax revenue received by the
+Federeal Government.
+</li>
+<li>Some taxpayers will experience a decline in their real disposable
+income because they will be paying a higher average rate of tax.
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-1-7" class="outline-3">
+<h3 id="sec-1-7"><span class="section-number-3">1.7</span> Actual and Estimated Budget Outcomes</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+The Department of Treasury releases the 'actual' budget figures for
+the previous financial year in September or October (16 months after
+the release of the budget).
+</p>
+
+<dl class="org-dl">
+<dt> Estimated budget outcome </dt><dd>- released in May
+</dd>
+<dt> Actual budget outcome </dt><dd>- released in September or October
+</dd>
+</dl>
+
+<p>
+The estimated budget outcome heavily relies on forecasts for economic
+growth and other statistic which are never 100% accurate.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="left">Year 2</th>
+<th scope="col" class="left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="left">Receipts</td>
+<td class="left">$100B</td>
+</tr>
+
+<tr>
+<td class="left">Outlays</td>
+<td class="left">$120B</td>
+</tr>
+
+<tr>
+<td class="left">Headline cash deficit</td>
+<td class="left">$20B</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+We have a budge tdeficit of $20B for year 2 and we prepare the Budget
+for year 3, where a budget deficit of only $3B is estimated. This
+estimated deficit is clearly dependan on the <b>discretionary changes</b>
+the government expects to make to the budget, as well as any
+anticipated changes to the <b>cyclical component</b> of the budget. It is
+also expected the the economic growth for year 3 to be an estimated
+healthy 4%.
+</p>
+
+<p>
+However, what would happen to the 'actual' budget outcome if economic
+growth was much lower? The actual deficit will be higher because the
+government overestimated tax receipts and understimated outlays. Not
+only will the budge tforecasts be inaccurate but any additional
+'discretionary' changes made to the budget after its release in May
+will further widen the difference between the estimated and actual
+budget outcomes.
+</p>
+
+<p>
+The most recent example of this is during the 2014-2015 Budget where
+the underlying budget deficit was estimated to be of $29.8B ( based on
+the Treasury assumption of 3.0% growth in nominal GDP). During the
+course of the year economic conditions deteriorated as the terms of
+trade fell by more than anticipated nad actual growth was a much lower
+1.6%. This caused the actual budget deficit to increase to $37.9B.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-1-8" class="outline-3">
+<h3 id="sec-1-8"><span class="section-number-3">1.8</span> Expansionary v. Contractionary Budgets</h3>
+<div class="outline-text-3" id="text-1-8">
+</div><div id="outline-container-sec-1-8-1" class="outline-4">
+<h4 id="sec-1-8-1"><span class="section-number-4">1.8.1</span> Budget Deficit vs Budget Surplus</h4>
+<div class="outline-text-4" id="text-1-8-1">
+<p>
+If the government has a 'balanced budget' every year, this means that
+it is neither contractionary nor expansionary in terms of its impacts
+on the economy.
+</p>
+
+<p>
+If the government delivered a 'budget deficit' it means the Federal
+Government will be injecting more into the economy than it is taking
+out, meaning it will be <b>expansionary</b>.
+</p>
+
+<p>
+If the government delivered a 'budget surplus' it means the Federal
+Government will be taking more from the ecnommy than it is injecting,
+meaning it will be <b>contractionary</b>
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-8-2" class="outline-4">
+<h4 id="sec-1-8-2"><span class="section-number-4">1.8.2</span> Changes to the size of the deficit or surplus</h4>
+<div class="outline-text-4" id="text-1-8-2">
+<p>
+If the government delivers a <b>bigger surplus</b> than the year before, then
+it is liekly to be considered a more contractionary budgetary policy
+stance and a <b>smaller surplus</b> is likely to be considered a less
+contractionary stance.
+</p>
+
+<p>
+In contrast, a bigger deficit is likely to more expansionary and a
+smaller deficit less expansionary.
+</p>
+
+<blockquote>
+<p>
+However it is possible for an expansionary budget to occur even when
+the budget surplus increases or when a contractionary budget budget
+deficit increases.
+</p>
+
+<p>
+The Budgetary Policy Stance is determined by how much of the change to
+the budget outcome occurred automatically and how much of the change
+was deliberate.
+</p>
+</blockquote>
+</div>
+
+<ol class="org-ol"><li><a id="sec-1-8-2-1" name="sec-1-8-2-1"></a>Example<br  /><div class="outline-text-5" id="text-1-8-2-1">
+<table id="Hypothetical-Situation" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="right" />
+
+<col  class="right" />
+</colgroup>
+<tbody>
+<tr>
+<td class="right">Year</td>
+<td class="right">Outcome ($B)</td>
+</tr>
+
+<tr>
+<td class="right">1</td>
+<td class="right">+10</td>
+</tr>
+
+<tr>
+<td class="right">2</td>
+<td class="right">+20</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+If the economy was growing strongly in year 1 causing the surplus to
+rise, then the surplus will have occured for cyclical reasons without
+any changes to the discretionary budget.
+</p>
+</div>
+</li>
+
+<li><a id="sec-1-8-2-2" name="sec-1-8-2-2"></a>Example<br  /><div class="outline-text-5" id="text-1-8-2-2">
+<table id="Hypothetical-Situation" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="right" />
+
+<col  class="right" />
+</colgroup>
+<tbody>
+<tr>
+<td class="right">Year</td>
+<td class="right">Outcome ($B)</td>
+</tr>
+
+<tr>
+<td class="right">1</td>
+<td class="right">+10</td>
+</tr>
+
+<tr>
+<td class="right">2</td>
+<td class="right">+15</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+Instead the government wants to reducce this surplus to $15B in yera 2
+via spending measures or tax cuts. The budget surplus has still
+increased from $10B to $15B, but the Budget would be considered an
+expansionary one because it delivered a net stimulus to AD.
+</p>
+</div>
+</li></ol>
+</div>
+</div>
+
+
+<div id="outline-container-sec-1-9" class="outline-3">
+<h3 id="sec-1-9"><span class="section-number-3">1.9</span> Financing a Deficit / Investing a Surplus</h3>
+<div class="outline-text-3" id="text-1-9">
+</div><div id="outline-container-sec-1-9-1" class="outline-4">
+<h4 id="sec-1-9-1"><span class="section-number-4">1.9.1</span> Budget Deficit \(R < E\)</h4>
+<div class="outline-text-4" id="text-1-9-1">
+<p>
+Expansionary \(\rightarrow\) Rise in AD which impacts on production,
+employment and inflation
+</p>
+
+<p>
+The gap is financed by government borrowing:
+</p>
+
+<ol class="org-ol">
+<li>Borrow from public and financial sector by sale of bonds
+</li>
+<li>Borrow from the RBA
+</li>
+<li>Overseas borrowings
+</li>
+</ol>
+
+<blockquote>
+<ol class="org-ol">
+<li>Less a feature of budgetary policy since the late 1980s because the
+government and the RBA wanted a clear separation of monetary and
+budgetary policies.
+</li>
+<li>Bond sales place upward presssure on interest rates crowding out
+the private sector. They also result in local borrowers borrowing
+in overseas lenders causing a higher exchange rate (crowding out of
+the external sector).
+</li>
+<li>Results in capital inflow causing upward presssure on the AUD. Less common form of financing deficit.
+</li>
+</ol>
+</blockquote>
+</div>
+</div>
+
+<div id="outline-container-sec-1-9-2" class="outline-4">
+<h4 id="sec-1-9-2"><span class="section-number-4">1.9.2</span> Budget Surplus \(R > E\)</h4>
+<div class="outline-text-4" id="text-1-9-2">
+<p>
+Contractionary \(\rightarrow\) Fall in AD
+</p>
+
+<p>
+Use of surplus:
+</p>
+
+<ol class="org-ol">
+<li>Save with RBA
+</li>
+<li>Place in special investment or savings fund
+</li>
+<li>Repay local and foreign debt
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-sec-1-9-3" class="outline-4">
+<h4 id="sec-1-9-3"><span class="section-number-4">1.9.3</span> Problems with an expansionary budget deficit</h4>
+<div class="outline-text-4" id="text-1-9-3">
+<p>
+Budget deificits can lead to a build up of government (public) debt
+over time. This creates a potential problem for goernments in terms of
+the impact on government credit ratings. if downgraded this can lead
+to higher borrowing costs and a larger deficit.
+</p>
+
+<blockquote>
+<p>
+Governments need to achieve the right balance by delivering deficits
+that do just enough to achieve its short to medium term goals without
+imposing too heavy a burden on taxpayers and the economy in the
+future.
+</p>
+</blockquote>
+</div>
+</div>
+
+<div id="outline-container-sec-1-9-4" class="outline-4">
+<h4 id="sec-1-9-4"><span class="section-number-4">1.9.4</span> Dealing witha budget surplus</h4>
+<div class="outline-text-4" id="text-1-9-4">
+<p>
+While a deficit tends to contribute to crowding out, a surplus tends
+to do the opposite and contributes to crowding in of the private
+sector. A surplus means that the government becomes a net lender for
+that year and this leads to less pressure for funds in fincancial
+markets. Leading to a reduction in interest rates causing an increase
+in <i>Consumption</i> and <i>Investment</i> (Net exports).
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-9-5" class="outline-4">
+<h4 id="sec-1-9-5"><span class="section-number-4">1.9.5</span> Fiscal consolidation and the rationale for delivering a budget surplus</h4>
+<div class="outline-text-4" id="text-1-9-5">
+<ul class="org-ul">
+<li>Help buffer Austraia against future economic decline as surplus
+funds can be saved and then spent.
+</li>
+<li>Helps to generate greater international investor confidence in
+Australian government finances preserving Australia's AAA credit
+rating.
+</li>
+<li>Allows the cyclical component of the budget to do its job of
+automatically reducing the deficit as the economy recovers.
+</li>
+<li>Allows monetary policy to better manage the economy.
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-1-10" class="outline-3">
+<h3 id="sec-1-10"><span class="section-number-3">1.10</span> <span class="todo TODO">TODO</span> Budget and Economic Goals</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+In terms of Australia's specific domestic macroeconomic goals,
+budgetary policy has a key role to play in the achieving of stability
+in the level of domestic economic activity (also referred to as
+<b>Internal Stability</b>)
+</p>
+</div>
+
+<div id="outline-container-sec-1-10-1" class="outline-4">
+<h4 id="sec-1-10-1"><span class="section-number-4">1.10.1</span> Stablising the business cycle</h4>
+</div>
+
+<div id="outline-container-sec-1-10-2" class="outline-4">
+<h4 id="sec-1-10-2"><span class="section-number-4">1.10.2</span> Changing role of Budgetary Policy</h4>
+</div>
+
+<div id="outline-container-sec-1-10-3" class="outline-4">
+<h4 id="sec-1-10-3"><span class="section-number-4">1.10.3</span> Budgetary policy and low inflation</h4>
+</div>
+
+<div id="outline-container-sec-1-10-4" class="outline-4">
+<h4 id="sec-1-10-4"><span class="section-number-4">1.10.4</span> Budgetary policy and strong and sustainable growth</h4>
+</div>
+
+<div id="outline-container-sec-1-10-5" class="outline-4">
+<h4 id="sec-1-10-5"><span class="section-number-4">1.10.5</span> Budgetary policy and ull employment</h4>
+</div>
+</div>
+
+<div id="outline-container-sec-1-11" class="outline-3">
+<h3 id="sec-1-11"><span class="section-number-3">1.11</span> <span class="todo TODO">TODO</span> Budgetary Policy and Living Standards</h3>
+</div>
+
+<div id="outline-container-sec-1-12" class="outline-3">
+<h3 id="sec-1-12"><span class="section-number-3">1.12</span> Strengths and weaknesses of Budgetary Policy</h3>
+<div class="outline-text-3" id="text-1-12">
+</div><div id="outline-container-sec-1-12-1" class="outline-4">
+<h4 id="sec-1-12-1"><span class="section-number-4">1.12.1</span> Strengths</h4>
+<div class="outline-text-4" id="text-1-12-1">
+<ul class="org-ul">
+<li>Target particular sectors
+</li>
+<li>Greater range of economic goals
+</li>
+<li>Impact lag
+</li>
+<li>Effictively stimulating AD
+</li>
+<li>Effect through automatic stabilisers
+</li>
+<li>Checks and balances
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-1-12-2" class="outline-4">
+<h4 id="sec-1-12-2"><span class="section-number-4">1.12.2</span> Weakness</h4>
+<div class="outline-text-4" id="text-1-12-2">
+<ul class="org-ul">
+<li>Political hurdles
+</li>
+<li>Political bias
+</li>
+<li>Imlementation lag
+</li>
+<li>Inflexible
+</li>
+<li>Less effective at restricting AD during a boom
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Budgetary policy in Action</h2>
+<div class="outline-text-2" id="text-2">
+</div><div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> Recent use of the budget</h3>
+</div>
+
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> Evaluating the effectiveness of budgetary policy</h3>
+</div>
+
+<div id="outline-container-sec-2-3" class="outline-3">
+<h3 id="sec-2-3"><span class="section-number-3">2.3</span> Specific budgetary policy initiatives</h3>
+</div>
+
+
+<div id="outline-container-sec-2-4" class="outline-3">
+<h3 id="sec-2-4"><span class="section-number-3">2.4</span> Budget Examples</h3>
+<div class="outline-text-3" id="text-2-4">
+</div><div id="outline-container-sec-2-4-1" class="outline-4">
+<h4 id="sec-2-4-1"><span class="section-number-4">2.4.1</span> Growth</h4>
+</div>
+
+<div id="outline-container-sec-2-4-2" class="outline-4">
+<h4 id="sec-2-4-2"><span class="section-number-4">2.4.2</span> Unemployement</h4>
+<div class="outline-text-4" id="text-2-4-2">
+</div><ol class="org-ol"><li><a id="sec-2-4-2-1" name="sec-2-4-2-1"></a>Youth Employment Packages<br  /></li>
+
+<li><a id="sec-2-4-2-2" name="sec-2-4-2-2"></a>Skilling Australians Fund<br  /></li></ol>
+</div>
+
+<div id="outline-container-sec-2-4-3" class="outline-4">
+<h4 id="sec-2-4-3"><span class="section-number-4">2.4.3</span> Inflation</h4>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
