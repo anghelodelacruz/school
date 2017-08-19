@@ -132,33 +132,111 @@ These have two effects:
   income because they will be paying a higher average rate of tax.
 
 
-** TODO Actual and Estimated Budget Outcomes
+** Actual and Estimated Budget Outcomes
 
 The Department of Treasury releases the 'actual' budget figures for
 the previous financial year in September or October (16 months after
 the release of the budget).
 
-- Estimated budget outcome :: released in May
-- Actual budget outcome :: released in September or October
+- Estimated budget outcome :: - released in May
+- Actual budget outcome :: - released in September or October
 
 The estimated budget outcome heavily relies on forecasts for economic
 growth and other statistic which are never 100% accurate.
 
 | Year 2                |       |
+|-----------------------+-------|
 | Receipts              | $100B |
 | Outlays               | $120B |
 | Headline cash deficit | $20B  |
 
+We have a budge tdeficit of $20B for year 2 and we prepare the Budget
+for year 3, where a budget deficit of only $3B is estimated. This
+estimated deficit is clearly dependan on the *discretionary changes*
+the government expects to make to the budget, as well as any
+anticipated changes to the *cyclical component* of the budget. It is
+also expected the the economic growth for year 3 to be an estimated
+healthy 4%.
+
+However, what would happen to the 'actual' budget outcome if economic
+growth was much lower? The actual deficit will be higher because the
+government overestimated tax receipts and understimated outlays. Not
+only will the budge tforecasts be inaccurate but any additional
+'discretionary' changes made to the budget after its release in May
+will further widen the difference between the estimated and actual
+budget outcomes.
+
+The most recent example of this is during the 2014-2015 Budget where
+the underlying budget deficit was estimated to be of $29.8B ( based on
+the Treasury assumption of 3.0% growth in nominal GDP). During the
+course of the year economic conditions deteriorated as the terms of
+trade fell by more than anticipated nad actual growth was a much lower
+1.6%. This caused the actual budget deficit to increase to $37.9B.
 
 
+** Expansionary v. Contractionary Budgets
 
 
+*** Budget Deficit vs Budget Surplus
 
-** TODO Expansionary v. Contractionary Budgets
+If the government has a 'balanced budget' every year, this means that
+it is neither contractionary nor expansionary in terms of its impacts
+on the economy.
+
+If the government delivered a 'budget deficit' it means the Federal
+Government will be injecting more into the economy than it is taking
+out, meaning it will be *expansionary*.
+
+If the government delivered a 'budget surplus' it means the Federal
+Government will be taking more from the ecnommy than it is injecting,
+meaning it will be *contractionary*
+
+*** Changes to the size of the deficit or surplus
+
+If the government delivers a *bigger surplus* than the year before, then
+it is liekly to be considered a more contractionary budgetary policy
+stance and a *smaller surplus* is likely to be considered a less
+contractionary stance.
+
+In contrast, a bigger deficit is likely to more expansionary and a
+smaller deficit less expansionary.
+
+#+BEGIN_QUOTE
+However it is possible for an expansionary budget to occur even when
+the budget surplus increases or when a contractionary budget budget
+deficit increases.
+
+The Budgetary Policy Stance is determined by how much of the change to
+the budget outcome occurred automatically and how much of the change
+was deliberate.
+#+END_QUOTE
+
+**** Example
+
+#+NAME: Hypothetical Situation
+| Year | Outcome ($B) |
+|    1 |          +10 |
+|    2 |          +20 |
+
+If the economy was growing strongly in year 1 causing the surplus to
+rise, then the surplus will have occured for cyclical reasons without
+any changes to the discretionary budget.
+
+**** Example
 
 
+#+NAME: Hypothetical Situation
+| Year | Outcome ($B) |
+|    1 |          +10 |
+|    2 |          +15 |
 
-** TODO Financing a Deficit / Investing a Surplus
+Instead the government wants to reducce this surplus to $15B in yera 2
+via spending measures or tax cuts. The budget surplus has still
+increased from $10B to $15B, but the Budget would be considered an
+expansionary one because it delivered a net stimulus to AD.
+
+
+** Financing a Deficit / Investing a Surplus
 
 *** Budget Deficit $R < E$
 
@@ -171,6 +249,17 @@ The gap is financed by government borrowing:
 2. Borrow from the RBA
 3. Overseas borrowings
 
+#+BEGIN_QUOTE
+1. Less a feature of budgetary policy since the late 1980s because the
+   government and the RBA wanted a clear separation of monetary and
+   budgetary policies.
+2. Bond sales place upward presssure on interest rates crowding out
+   the private sector. They also result in local borrowers borrowing
+   in overseas lenders causing a higher exchange rate (crowding out of
+   the external sector).
+3. Results in capital inflow causing upward presssure on the AUD. Less common form of financing deficit.
+#+END_QUOTE
+
 *** Budget Surplus $R > E$
 
 Contractionary $\rightarrow$ Fall in AD
@@ -181,17 +270,30 @@ Use of surplus:
 2. Place in special investment or savings fund
 3. Repay local and foreign debt
    
-*** Problems with a expansionary budget deficit
+*** Problems with an expansionary budget deficit
 
+Budget deificits can lead to a build up of government (public) debt
+over time. This creates a potential problem for goernments in terms of
+the impact on government credit ratings. if downgraded this can lead
+to higher borrowing costs and a larger deficit.
 
+#+BEGIN_QUOTE
+Governments need to achieve the right balance by delivering deficits
+that do just enough to achieve its short to medium term goals without
+imposing too heavy a burden on taxpayers and the economy in the
+future.
+#+END_QUOTE
 
 *** Dealing witha budget surplus
 
 While a deficit tends to contribute to crowding out, a surplus tends
 to do the opposite and contributes to crowding in of the private
-sector.
+sector. A surplus means that the government becomes a net lender for
+that year and this leads to less pressure for funds in fincancial
+markets. Leading to a reduction in interest rates causing an increase
+in /Consumption/ and /Investment/ (Net exports).
 
-*** Fiscal consolidation and the rationale for delivering a budget surplus
+*** TODO Fiscal consolidation and the rationale for delivering a budget surplus
 
 - Help buffer Austraia against future economic decline as surplus
   funds can be saved and then spent.
