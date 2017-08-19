@@ -1,5 +1,5 @@
 #+SETUPFILE: setup.org
-#+TITLE: Sketching 2
+#+TITLE: Sketching 3
 #+OPTIONS: num:nil
 
 * Curve Sketching
