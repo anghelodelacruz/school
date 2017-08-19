@@ -10,9 +10,9 @@
 ** Consider the following information
 
 #+BEGIN_QUOTE
-- /Throughout 2011 [January to November], the Reserve Bank of
-  Australia held the cash rate steady at 4.75%/
-- /In 2009-10 the budget outcome was a deficit of $52.9b. The deficit
+- Throughout 2011 [January to November], the Reserve Bank of
+  Australia held the cash rate steady at 4.75%
+- In 2009-10 the budget outcome was a deficit of $52.9b. The deficit
   in 2010-11 was predicted to be $40.8b with the government planning
   to move the budgget to a surplus in 2012-13.
 #+END_QUOTE
@@ -25,7 +25,8 @@
 
 ** Consider the following
 
-#+BEGIN_QUTOE 'Looking ahead, the Bank expect unemployment to rise
+#+BEGIN_QUOTE 
+'Looking ahead, the Bank expect unemployment to rise
 further before it peaks. Over time, growth is expected to strengthen,
 helped by continued low interest rates and the lower exchange
 rate. Inflation is expected to be consistent with the 2-3 per cent
