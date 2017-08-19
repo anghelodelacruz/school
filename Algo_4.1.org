@@ -1,5 +1,5 @@
 #+SETUPFILE: setup.org
-#+TITLE: Algorithm Analysis Tools 1111
+#+TITLE: Algorithm Analysis Tools
 
 * Algorithm Analysis Tools
 
@@ -51,6 +51,7 @@ This is an *exponential* changng sequence shown by:
 
 
 * Proof by Induction
+SCHEDULED: <2017-08-20 Sun>
 
 There are 4 steps of math induction:
 
