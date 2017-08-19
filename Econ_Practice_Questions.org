@@ -1,0 +1,44 @@
+#+SETUPFILE: setup.org
+#+TITLE: Practice Questions
+
+* A
+
+** Explain how the RBA uses open market operations to increase interest rates.
+
+** Evaulate the efficitiveness of monetary policy in achieving domestic economic stabililty over the last three years.
+
+** Consider the following information
+
+#+BEGIN_QUOTE
+- /Throughout 2011 [January to November], the Reserve Bank of
+  Australia held the cash rate steady at 4.75%/
+- /In 2009-10 the budget outcome was a deficit of $52.9b. The deficit
+  in 2010-11 was predicted to be $40.8b with the government planning
+  to move the budgget to a surplus in 2012-13.
+#+END_QUOTE
+
+*** Describe the policy stane adopted by the government in relation to budgetary policy for the period identified above.
+*** Explain the difference in the stance adopted by the Reserve Bank in setting monetary policy.
+*** Monetary and budgetary policies are often referred to as 'demand management poicies'. Explain this means.
+*** Explain the effect of the monetary Policy stance on inflation and material living standards.
+*** Explain how budgetary policy may be used to overcome a slowing economy and how this may negatively impact upon external stability.
+
+** Consider the following
+
+#+BEGIN_QUTOE 'Looking ahead, the Bank expect unemployment to rise
+further before it peaks. Over time, growth is expected to strengthen,
+helped by continued low interest rates and the lower exchange
+rate. Inflation is expected to be consistent with the 2-3 per cent
+target over the next two years.'  
+#+END_QUOTE
+
+*** Define the economic goal of strong and sustainable economic growth
+
+*** What is the likely effect of *each* of the following factors on economic growth?
+
+**** continued low interest rates
+
+**** the lower exchange rate
+
+*** Assuming the predictions in the Reserve Bank of Australia's statement prove to be correct, discuss the monetary policy setting (stance) likely to be taken by the RBA over the next two years.
+
