@@ -1,5 +1,5 @@
 #+SETUPFILE: setup.org
-#+TITLE: Econ Unit 44h
+#+TITLE: Econ Unit 4
 
 #+INCLUDE: Econ_Budgetary_Policy.org :minlevel 1 :lines "3-"
 
