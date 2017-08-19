@@ -1,11 +1,10 @@
 @media all
 {
     body {
-        font-family: "Helvetica Neue", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif !important;
+        font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important;
         font-size: 14px;
         line-height: 21px;
         color: #333;
-
         max-width: 62em;
         margin: auto;
     }
@@ -73,7 +72,7 @@
         /*
           font-family:Sans;
           font-weight:bold; */
-        font-size:2.1em;
+        font-size: 3em;
         padding:0 0 30px 0;
         margin-top: 10px;
         margin-bottom: 10px;
@@ -81,11 +80,12 @@
     }
 
     h2 {
-        font-family:Arial,sans-serif;
-        font-size:1.45em;
+        /* font-family:Arial,sans-serif; */
+        font-size: 2em;
         line-height:16px;
         padding:7px 0 0 0;
-        color: #666;
+        color: #2f3387;
+	text-decoration: underline
     }
 
     .outline-text-2 {
@@ -97,10 +97,11 @@
     }
 
     h3 {
-        font-family:Arial,sans-serif;
+        /* font-family:Arial,sans-serif; */
         font-size:1.3em;
-        color: #666;
+        color: #3d3d3d;
         margin-left: 0.6em;
+	font-style: italic
     }
 
     .outline-text-3 {
@@ -108,7 +109,7 @@
     }
 
     h4 {
-        font-family:Arial,sans-serif;
+        /* font-family:Arial,sans-serif; */
         font-size:1.2em;
         margin-left: 1.2em;
         color: #666;
@@ -176,6 +177,15 @@
         margin-bottom: 10px;
     }
 
+    .table2 {
+        border: none;
+        margin: 0;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+
+    
     td {
         border: none;
         border-left: 1px solid black;
