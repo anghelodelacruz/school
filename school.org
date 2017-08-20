@@ -1,13 +1,6 @@
 #+TITLE: SCHOOL PLANNER
 
 
-* Todo
-
-- algo
-- spesh answers
-- media
-- eco notes and mpc (prac sac)
-- eng : check one note
 
 * Timetable
   
@@ -55,7 +48,7 @@
 
 ** Specialist Math
 
-*** SAC 1 (Calc)
+*** DONE SAC 1 (Calc)
     SCHEDULED: <2017-08-11 Fri>
 
 
@@ -70,7 +63,7 @@
     CLOSED: [2017-08-06 Sun 13:19] DEADLINE: <2017-08-04 Fri>
 
 *** SAT ANALYSIS TASK 2
-    DEADLINE: <2017-09-15 Fri> SCHEDULED: <2017-09-11 Mon>
+    DEADLINE: <2017-08-25 Fri> SCHEDULED: <2017-08-21 Mon>
 
 *** SAT WRITTEN REPORT
     DEADLINE: <2017-09-22 Fri> SCHEDULED: <2017-09-18 Mon>
