@@ -1,0 +1,64 @@
+* Selection
+
+  | M-b     | Delete but keep selection |
+  | C-x r k | Rectangle Delete          |
+
+* Clock
+
+| C-c C-x C-i | Start clock   |
+| C-c C-x C-o | End Clock     |
+| C-c C-y     | Evaluate Time |
+|             |               |
+
+
+* Latex
+
+| C-c C-x C-l | Preview |
+| C-c C-c     | Remove Preview |
+
+
+#+LATEX_HEADER: \newcommand{\bigO}{\ensuremath{\mathcal{O}}}
+
+$\bigO(n)$
+
+** Tree Diagrams
+
+[[https://tex.stackexchange.com/questions/161231/how-can-i-produce-this-tree-diagram-in-latex][Tree Diagram]]
+
+* Ace Jump
+
+| C-c C-SPC | char |
+
+
+#+BEGIN_SRC calc 
+integ(x^2, x)
+#+END_SRC
+
+#+RESULTS:
+: x^3 / 3
+
+
+
+
+* Org
+
+** Agenda
+
+| Binding | Action                  |
+|---------+-------------------------|
+| C-c aa  | agenda for current week |
+| C-c C-s | schedule task           |
+| C-s C-d | deadline task           |
+| S-f     | Follow mode             |
+| f       | Follow mode forward     |
+| b       | Follow mode back        |
+
+| Binding | Action                                  |
+|---------+-----------------------------------------|
+| S-l     | Timeline for current buffer             |
+| t       | List all TODO entries                   |
+| S-t     | Entries with a special TODO keyword     |
+| m       | Match tags / properties / TODO Keywords |
+| S-m     | Like before, but only TODO entries      |
+| s       | Search Keywords                         |
+
