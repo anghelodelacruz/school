@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>Probablity</title>
-<!-- 2017-08-21 Mon 09:22 -->
+<!-- 2017-08-21 Mon 22:16 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Anghelo De La Cruz" />
@@ -283,10 +283,26 @@ Probability Desnisty Function
 <tr>
 <td class="left">\(Var(x)\)</td>
 <td class="left">\(E(x^2)-[E(x)]^2\)</td>
+<td class="left">\(\int x^2f(x) dx - [\int x(fx)]^2\)</td>
+</tr>
+
+<tr>
+<td class="left">St.Dev(x)</td>
+<td class="left">= \sqrt{Var(x)}</td>
 <td class="left">&#xa0;</td>
 </tr>
 </tbody>
 </table>
+
+\begin{align*}
+E(aX+bY) &= E(aX) + E(bY)\\
+&= aE(X) + bE(Y)
+\end{align*}
+
+\begin{align*}
+Var(aX+by) &= Var(aX) + Var(bY)\\
+&= a^2Var(X) + b^2Var(Y)
+\end{align*}
 </div>
 </div>
 </div>
