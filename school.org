@@ -1,6 +1,42 @@
 #+TITLE: SCHOOL PLANNER
 
 
+* GTD
+
+** Emails
+
+
+** Personal
+
+*** TODO Haircut
+    SCHEDULED: <2017-09-02 Sat +4w>
+    - State "DONE"       from "INACTIVE"   [2017-08-20 Sun 22:41]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-08-20 Sun 22:41]
+    :END:
+
+
+** LaTex
+
+*** Boxed Equations
+
+*** Tikz Package
+
+** Emacs
+
+*** TODO Evil Mode
+
+*** TODO Themes
+
+*** TODO AucTex
+
+*** TODO Org Refile
+
+*** TODO Org Capture
+
+*** TODO Projectile
+
+*** TODO Magit
 
 * Timetable
   
@@ -51,6 +87,10 @@
 *** DONE SAC 1 (Calc)
     SCHEDULED: <2017-08-11 Fri>
 
+** Economics
+
+*** SAC 2
+    SCHEDULED: <2017-08-25 Fri>
 
 ** Media 
 

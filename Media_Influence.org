@@ -1,0 +1,663 @@
+#+TITLE: Media Texts and Societies Values
+#+OPTIONS: num:nil
+#+OPTIONS: toc:nil
+
+[[https://mail.google.com/mail/u/0/#search/semester+outline/15dba3357730f011?projector=1][Outline]]
+[[http://lessonbucket.com/media/communicationtheories.pdf][Communication Therories]]
+
+- 379-387 Summarise
+- Summarise each heading
+- 382-385 Read
+
+* Textbook
+
+** How can something that's so much fun be so controversial?
+
+The greatest problem with discussing media influence lies iin defining the discussion. 
+What do we mean by the term 'influence' and are there different types of influence? Which media are we talking about?
+
+
+
+** Issues in discussing media influence 
+
+*** Influence is about communication, communication is about relationships
+
+For the media to have some influence over its audiences, it must
+communicate with them. Communication is a relational
+process. According to Professor Celeste Condit of the University of
+Georgia: /Communication is not about transferring, disseminating or
+ciruclating information, but is about the relationships between
+participants in the communication process/. Relationships determine
+how they interpret the content.
+
+Media theory has two apparently contradictory sides:
+- The mdia is assumed to influence individuals and the community,
+  often in negative ways
+- The right for media producers to make and market their products is
+  bound up in the belief of freedom of expression.
+
+
+** A breif history of moral panics about media effects
+
+The controversy surrrounding the influence of the media is much
+older. Prior to the invention of the printing press, knowledge in the
+Western world was controlled by the church and people communicated
+orally. Manuscripts were handtranscribed in Latin by monks. To read
+these, one entered the church eduation system. Few people were able to
+read. 
+
+The printed world changed the way information and later entertainment was distributed and consumed. 
+
+/One should be cautious in adopting a new kind of poetry or music, for
+this endangers the whole system... lawlessness creeps in there unawares./
+
+/There is no such thing as innate ideas; there is no such thing as
+moral precept; we are born with an empty mind, with a tablet - tabula
+rasa - ready to be writ upon by experimental impressions./
+
+This philosophy had a powerful impact on the way Western societies
+though children should be educated and the influences they should be
+exposed to in the world, lest children be corrupted by their
+experiences.
+
+During Victorian times, popular weekly magazines called Penny
+Dreadfuls were avidly consumed by the newly literate working class. It
+wsa even claimed that these publications would lead to copycat crimes,
+and that 'there is not a boy or a young lad tried at our Cousts of
+Justice whose position there is not more or less due to the effect of
+unwholesome literature upon his mind'
+
+In the early twentieth century, concern about the influence of the
+media centred on propagranda, the popular media and on
+broadcasting. Within decades, moving pctures and then talkies became
+both new media wonders and the focus of worry about their effects on
+audiences.
+
+Research conducted by the Payne Fund concluded that high levels of
+movie attendance were associated with declining morals, delinquent
+behaviour and lower intelligence. This led in a way to the Haynes
+Code, which stressed the moral importance of entertainment, and
+detailed content that was morally acceptable and unacceptable in the
+motion pictures. 
+
+In the latter part of the twentieth century the concept of addication
+to TV, violent films and pornography became the focus of alarm about
+the media. The proliferation of emerging media markets alllowed the
+debate about the influence of the media on its audiences to become a
+regular feature in the media itself.
+
+With todays media, moral panic about the media has shifted from
+violence to privacy, and the health impact of media consumption.
+
+
+
+
+** Links
+
+
+
+[[http://spreadablemedia.org/essays/uricchio/#.WYugIVEjHs2][THE HISTORY OF SPREADABLE MEDIA]]
+
+
+
+** Media theories are influenced the time and place of their production
+
+
+
+
+*** Theories and models
+
+- The polictial economy model holds that the media are simply part of
+  an economics system where power and control reside in political and
+  economic institutions.
+- The effects model holds that media forms and content have strong
+  effects on indiviudlas and society. This model sees the media as
+  powerful agents of change.
+- The cultural model holds that it is culture - which includes the political economy and the media.
+
+*** A brief history of resarch into media effects
+
+4 stages 
+
+- 1930 :: Opinion about media effects was dominated by concern about
+          the influence of propaganda.
+- 1930s - 1960s :: media researches worked under the belief that the
+                   media had limited effects and power over
+                   attitudinal change resided in the individual.
+- Late 1960s :: Resurgence of the idea that the media had strong
+                effects on its audiences.
+- 1980s :: Researchers have used a social constrctivist model which
+           examines the relationship between the media and its
+           audiences.
+
+*** Early theories of media influence were about transmission
+
+
+**** Transmission models of Communication
+
+At first, media communication was thought of as a linear
+process. Communication was considered hierarchical (transmitted from
+the top down). This was the 'natural' order of things at the time and
+commiunciation theory reflected this order.
+
+This model was dominant for the first half of the twentieth century
+and influenced even later.
+
+
+*** Bullet or hypodermic communication models
+
+=Silver bullet theory=
+
+A model where audiences are directly affected by the media messages they consume.
+
+Medium $\rightarrow$ Message $\rightarrow$ Audience
+
+*** The Laswell model 
+
+=Who says what in which channel to whom with what effect?=
+
+*** Shannon Weaver model
+
+Deals with the transmission of information, rather than communication as we 
+
+*** Wilbur Schramm
+
+*** The limited effects paradigm
+
+
+* Media Influence 
+
+** Introduction
+
+*Outline*
+- Vulnerability
+- Audiences
+
+What is it, what forms does it come in, to what extent does it exist
+today. Issues in discussing media influence.
+
+Media does not influence every person the same way.
+
+Vulnerable audiences are a key aspect of media influence. Vulnerable
+audiences are based entirely by context.
+
+[[http://lessonbucket.com/vce-media/units-3-4/media-influence/evidence-and-arguments/][Vulnerable Audiences]]
+
+
+
+
+
+
+
+
+** [[http://lessonbucket.com/vce-media/units-3-4/media-influence/communication-theories/][Communication Theories]]
+
+*** Hypodermic Needle Theory
+
+- implications and criticisms.
+
+*** Two Step Flow Theory
+
+*** Agenda Setting Function Theory
+
+
+** Evidence and Arguments
+
+** Media Regulation
+
+
+
+* Limited effects paradigm
+
+
+** Two Step Flow
+
+
+[[c:Users/Anghelo/Google Drive/12 Media/img/two_step_flow.jpg][two-step-flow-model]]
+
+[[./img/two_step_flow.jpg][two step]]
+
+A diffusion moel of influence, suggesting that people are more liekly
+to be influenced by 'opinion leaders' - people who are more connected
+to the media than their peers and pass on media messages.
+
+This theory was an important development in the study of media
+influence because it established a link between mass media
+communication and interpersonal communication. The media put ideas out
+there, but people carry the message.
+
+
+** Multistep flow model
+
+This model, similar to the two-step flow model, acknowledges that
+media between audience members who have no direct contact with the
+media or opinion leaders.
+
+Audiences are more prone to be influeced by those who are similar to
+them than who are different.
+
+Today we must consider the limited effects model in tandem with
+current thinking about how audiences make sense of media messages.
+
+
+** Social Learning Theory
+
+This theory hypothesised that people learn from one another through
+observational learning, imitation and modeling , and outlines three
+requirements for people to learn and model behaviour:
+
+- Attention and retention of what has been observed
+- The ability to reproduce the behaviour
+- Motivation for adopting the behaviour
+
+Social learning theory proposed that audience members learn violence
+through modelling - reproducing what they have seen in the media.
+
+** Agenda Setting Function
+
+The agenda-setting theory holds that the function of the media is not
+to tell audiences what to think, but what to think about and how to
+think about it. This theory was developed at a time when media
+resarchers began questioning the idea that the media had limited
+effects on its audiences.
+
+The theory has two levels:
+
+- The media sets the news agenda by telling audiences which issues are important.
+- The media then suggests to audiences how they might think aabout an
+  issue and which aspects of it are more important than others.
+
+Agenda setting occurs through a process called gatekeeping in which
+the media controls the flow of information disseminated to audiences
+and thus determines a dominant or preferred reading of any given
+issue.
+
+The media also engages in a process termed priming in which some
+issues are given coverage and others are ignored or minimised.
+
+The media is influenced by issues of ownership and control, knowledge
+of its audiiences and their values, access to footage and sources of
+information, and the social and political context in which it
+operates.
+
+
+
+
+** Cultivation Theory
+
+Cultivation theorists aruge that TV has long term effects that are
+small, gradual, indirect but cumulative and significant. The dominant
+effect is termed mainstreaming.
+
+=Use of reality tv shows=
+
+*** Gerbner
+
+the overt expression of physical force (with or without a weapon,
+against self or others) compelling action against one's will on pairs
+of being hurt and/ or killed or threatened to be so victimized as part
+of the plot.
+
+*** Mean world synrome
+
+An extension of cultiavtation thoery is the idea that watching TV
+alters audience perception of relity to believe that the world is worse
+than it actually is. 
+
+** Reinforcement Theory
+
+This is where audeinces use the media to reinforce thier existing
+beliefs and values. 
+
+
+
+** Uses and Gratification Theory
+
+These needs are understood to include:
+
+- Surveillance :: we like to keep an eye on what is happening in the
+                  world, to find out what is going, to learn, to
+                  satisfy our curiosity, to find information and to
+                  reassure ourselves about our personal security.
+- Personal Idenity :: we use the media to find out who we are by
+     comparing ourselves with others, by identifying with someone we
+     value, by reinforcing our beliefs and by finding models of
+     behaviour.
+- Personal Relationships :: the media helps us to gain insight into
+     the lives of others, to empathise, to give us something to talk
+     about with our friends and families.
+- Diversion :: the media can help us to relieve stress, to relax, to
+               fill in time, to give emotional release, or just be for
+               fun.
+
+** Criticisms of the uses and gratifications theory
+
+- People use media completely to gratify themselves
+- People consuming media are always active (wouldn't work for 5 year old watching a horror)
+- 
+
+
+** Postmodernity & Postmodernism
+
+Postmodern approaches to media reject the distinction between high
+culture and popular culture. Postmodernism promotes parody, irony and
+playfulness.
+
+Postmodernism describes a broad movement that developed in the mid to
+late 20th century across philosophy, the arts, architecture and
+criticism which marked a departure from modernism.
+
+Postmodernity is the economic or cultural state or condition of
+society which is said to exist after modernity.
+
+
+
+** Reception Analysis
+
+This area deals with the meanings the audience constructs from the
+media. Reception theorists reject behaviourist cause-and-effect models
+and empirical quantitative media research as too narrowly focused to
+provide answers to the biger questions of the relationship between
+audiences and the media they consume.
+
+Reception studies employs aspects of semiotic analysis to determine
+the 'politics of signification'.
+
+
+
+
+
+** Media And Audience Framing
+
+** Issues in Media Influence Today
+
+In terms of media influence, issues such as intellectual property
+rights, privacy and censorship and control must now be considered in a
+different light. If audiences can now access everything do they?
+Should they? And what can we do to protect vulnerable?
+
+** Vulnerable Audiences
+
+Some audiences are more susceptible to media influence than others. As
+each new media technology arrives, the target audience for these
+technologies is claimed to be at greatest risk. Over the years,
+susceptibliity has been variously attributed to men, women, the
+mentally unstable, heavy users, and of course children, who have been
+claimed to be susceptible to anything and everything.
+
+
+* Video Game Violence
+
+** Evaluating Evidence - [[http://lessonbucket.com/vce-media/units-3-4/media-influence/evidence-and-arguments/][Link]]
+
+*** Case Studies
+
+A process or record of research into the development of a particular
+person, group or situation over a period of time.
+
+*** Laboratory Research
+
+Replicable research conducted in a laboratory setting. Ignores how
+media consumption occurs in the real world.
+
+*** Longitudinal Research
+
+Occurs over a long period of time (years or even decades) where
+research is gathered from the same subjects.
+
+*** Correlation Studies
+
+Any research that finds a correlation between two sets of
+data. Researches look for relationships between variables.
+
+*** Qualitative Research
+
+This involves long questionaires and detailed responses about media use.
+
+*** Quantitative Research
+
+Includes results of surveys and statistics.
+
+*** Meta-analysis
+    
+When researches look at a number of studies and draw conclusions from
+the collective results of this research. When the treatment effect (or
+effect size) is consistent from one study to the next, meta-analysis
+can be used to idenfiy this common effect.
+
+* Practice SAC Questions
+
+1. Name the texts that you studied for media texts and societies values
+   this year.
+   - Archie & the Editorial (All in the family) - 70s
+   - Ruger Ad. - 90s
+   - Penn & Teller: Bullshit! - 2005
+   - Secrets (The Walking Dead) - 2011/2012
+   - Bushmaster Ad - 2012
+
+2. Describe one dominant value in one text that you studied this
+   year. (2 marks)
+   - The dominant value of the Ruger Ad was for gun safety and was
+     aimed at an audience of law abiding citizens which was a smaller
+     market at the time. This was to introduce new consumers of guns
+     matching the dominant value of society of the right to bear
+     arms. This is represented through various forms:
+     - The blue colour which implies law enforcement, order and authority
+     - 'More Than World Class, World's Best' which targets buyers of
+       the corporate and educated demographic.
+     - White backlight to represent the gun in an angelic manner.
+     - Row of aligned golden bullet also showing order.
+     - 'new design, new technology, quality control and extensive
+       testing' which appeals to the target audience.
+
+3. Outline how another text you studied reflects an oppositoinal or
+   emerging value. (2 marks)
+   - The Bushmaster Ad of 2012 represents the oppositional value of
+     society at the time. This is targeted at 'real manly men' and was
+     aimed to distinguish gun owners from the criminal acts of school
+     shooting at the time. This poster achieves this in the following
+     ways:
+     - Colours of red, black and grey. This choice of red is provoking
+       and stands out.
+     - The font used is all caps and is very bold and striking bringing
+       a powerful look to the ad.
+     - Various references to 'manliness' are evident to encourage the
+       reader to feel challenged of their masculinity.
+     - Contrast of Adam L as unmanly to distance the audience from the
+       event of the school shooting and see that as an unmanly act.
+   - The oppositional value in society during the twenty-teens was the
+     right to bear arms. The Bushmaster ad represented this value
+     through its appeal to manliness and response to Adam L, the
+     perpertrator of a school shooting in Sandy Hook Elementary. The
+     ad showcases the gun in a provoking manner through its bold all
+     caps font and grungy background. The colours chosen, red, black
+     and grey also emphasise this confronting look which appeals to
+     'manly men'. The ad makes various references to masculinity and
+     the 'man card' which is to be 'revoked' and 'reissued' on
+     purchase of the gun. This supports the oppoistional value showing
+     owners of this gun who believe in the right to bear arms who also
+     want to be an alpha male. This is contrasted with Adam L who is
+     considered 'unmanly' though he had used this gun. This distances
+     the reader from him as he used the gun for the wrong
+     purpose.
+4. Analyse how a social issue or discourse evolves from societies
+   values as reflected in the media texts you studied this year. (6
+   marks)
+   - /(First attempt)/ In my discourse, Gun Violence in America from
+     the 1960s til today, societies values have evolved and can be
+     seen through various advertisements and the production of various
+     tv series'. During the 1960s a less serious approach to the
+     consumerism of gun ownership is present through the bright
+     colours and inclusion of children. This was during a time that
+     guns were much more prevalent and were the dominant value was pro
+     gun ownership. Moving into the 70s, the representation of guns
+     had changed to a sport. As the dominant value was fading, more
+     advertisements of gun safety emerged and today as the discourse
+     is now equally sided, the media representation of guns is evident
+     in both arguments.
+   - In the earlier study of the discourse, the dominant value at the
+     time was pro gun ownership. This is evident in the character
+     Archie in 'Archie & the Editorial' and in the advertisements of
+     gun. During this time guns were taken lightly for its effect on
+     violence by the majority and were seen as a item of
+     'manliness'. During this time of high crime rates and assinations,
+     the emerging value of gun regulation became more
+     prevalent. Evident in the Ruger Ad we can see the focus on gun
+     safety and law and order emerge into the dominant value. Moving
+     into 2005 this dominant value of gun control caused debate and
+     this is seen in Penn & Teller: Bullshit were logical arguments of
+     gun ownership was better represented to show the issues with
+     regulation for safety against criminals.
+   - In the discourse studied, society's values have evolved and can
+     be seen through the various the values and representations in the
+     texts studied. The dominant value of the 1960s was for gun
+     ownership, this is seen in the advertisements of items and their
+     inclusion of guns. During this time it can be seen that guns were
+     lightly taken due to the use of children, bright colours
+     - shift in the orginal dominant value to the dominant value today
+     - discourse is an ongoing discussion as texts respond to real
+       life incidences.
+5. Analyse the relationship between a dominant value and either an
+   oppsitional or emerging value. Explain representation of each and
+   how it reflects the society of its production. (8 marks)
+   - During 2005 the dominant value for the discourse was pro gun
+     regulation, which was heavily debated. Penn & Teller: Bullshit
+     however juxtaposed this value with the oppositional value of
+     society at the time which was for gun ownership. This contrast is
+     evident in the representation of the characters to bring the
+     audience to agreeing with the 'right to bear arms'. This was done
+     through Suzanna who is shown as relatable and is seen as an
+     everyday American. This is done through showing shots of her in
+     her home doing everyday chores and by the absence of playful music
+     when compared to other characteres. This is contrasted by the
+     character Roger R, who can be constantly shown as smug through his
+     acting.
+     - Dominant value in the text
+     - How the values are represented
+     - Relationship between the values in the text and values in
+       society at the time
+     - Values of the audiences
+* SAC PREP
+
+- Prod Elements
+- Story Elemeents
+- Discourse
+  - Context
+  - Change over time
+- Dom Value
+- Emeging Value
+- Opp Value
+- Target Audience
+- Representations
+
+** Table of Text Values
+
+| TEXT                 | YEAR | DOM                            | OPP                  | EM                   | Notes                          | Context                        | Intention/ Resulting Influence |
+| <20>                 |      | <30>                           | <20>                 | <20>                 | <30>                           | <30>                           | <30>                           |
+|----------------------+------+--------------------------------+----------------------+----------------------+--------------------------------+--------------------------------+--------------------------------|
+| Archie & the Editorial(All in the family) |  70s | Right to bear arms (Archie)    | -                    | Need for control/regualtion(Michael) | Value representations match society at time | - High Police assasinations -Crime rates | Producers audience to adopt emerging value. They aimed to change society's values |
+| Ruger Ad.            |  90s | " \rightarrow focus on safety and law & order | -                    | -                    | Does match society's value at at the time | Dom Value at time \rightarrow need for more control. However this was llosing popularity | Target: Corporate people - law abiding citizens (small market) |
+| Penn & Teller: Bullshit | 2005 | " (P & T, Mabel, Suzanna)      | Regulation (Roger R, smug) | -                    | Values do not represent values in society at the time | Lots of debate (both values)   | Present logical arguments for specific values (not popular) |
+| The Walking Dead (Secrets) | 2011 | " (Rick, Shane, Karl)          | Regulation (Lori)    | -                    | Values in text do not represent values in soiety at time | Zombie  Apocalypse             | Out of context, no influencee. Audience probably sided with dom value in text because of context |
+| Bushmaster Ad        | 2012 | "                              | -                    | -                    | Does not match society's value | In response Adam L using that type of gun in sandy hook school shooting (Prior to sandy hook) | Target: 'manly' men, regain masculinity, people on edge about school shootings |
+
+** Specific Shootings at Specific Times
+
+*** Colum
+
+*** Sandy Hook  
+    
+- Location :: Sandy Hook Elemenary School; Newtown, Connecticut, U.S
+- Date :: December 14, 2012
+- Perpetrator :: Adam Lanza
+- Weapons :: Brushmaster XM15-E2S (.223); Glock 20SF (10mm)
+- Total number of deaths :: 28
+
+*** Pulse Night Club
+
+- Location :: 1912 Orange Avenue, Orlando, Florida, U.S.
+- Date :: June 12, 2016, 2:02-5:14 EDT, 13months ago
+- Target :: Patrons of the Pulse gay nightclub
+- Attack type :: Mass shooting, hostage-taking
+- Death :: 50 (including the perpetrator)
+- Non-fatal injuries :: 58
+- Perpetrator :: Omar Mir Seddique Mateen
+
+**** Pulse
+ 
+Pulse was a gay bar, dance club and nightclub in Orlando, Florida.
+
+=Founded in 2004 by Barbara Poma and Ron Legler=
+
+In November 2016, the city of Orlando agrred to buy the nightclub for $2.25m
+Mayor Buddy Dyer plans to convert the nightclub into a memorial.
+
+**** Omar Mateen
+
+- Age :: 29
+- Residence :: Florida
+Deadliest single gunman mass shooting in United States history.
+Deadliest incident of violence against LGBT people
+Deadliest terrorist attack since the September 11
+
+Raised as Muslim. Trained to be a prison guard.
+Unsuccessfully pursued a career in law enforcement.
+
+Married 2009
+Divorce 2011
+
+According to wife Omar was 'mentally unstable and mentally ill'
+and 'obviously distrubed, deeply and traumatized'
+
+Former coworker of Mateen said he 'had talked about killing people'
+and had a lot of hatred for people including black people, women,
+jews, hispanics gay or lesbian people.
+
+Facebook posts 
+
+- vowing vengeance for American airstrikes in Iraq and Syria
+- and to search for content related to terrorism.
+
+Person of interest to FBI in May 2013  and July 2014
+
+Rifle and a pistol
+
+**** Timeline
+
+- 2:00 :: Omar, parks his van outside Pulse.
+- 2:02 :: Mateen enters the crowded club through a side door and kills
+          a bouncer and dozens of patrons
+- 2:05 :: Orlanda Police arrive and exchange fire. Mateen retreats to
+          the restrooms. Police remove patrons from dance floor.
+- 2:22 :: Mateen calls 911, pledges support to Islamic State saying he has explosives.
+- 3:00 :: Bomb squad and SWAT teams are called in.
+- 5:00 :: Police breach restroom wall.
+- 5:03 :: Patrons flee through the hole in the wall. Mateen emerges but is killed by SWAT.
+- 2:03 :: An off-duty police officer responds to the shots exchanging
+          gunfire, outside the club.
+
+**** Motive theories
+
+Not everyone killed at Pulse was gay.
+ISIS calimed responsibilty for the attack.
+
+Only confirmed motive is the shooter's statements to 911 operators and
+hostage negotiators.  He told them he pledged allegiance to ISIS and
+wanted people to know the pain that Syrains and Iraqis felt.
+
+    
+** TODO How the values are represented
+
+* Past Exams
+
+- Identify, compare and contrast past representations of discourse in media text.
+- Use production and story elements to justify answers.
+
+- Stagnant Discussion
+- Talk about influences
+
+* Glossary
+
+- mainstreaming :: the 'blurring, blending and bending' attitudes
+                   which confirm fears and prejudices about the 'way
+                   things are'.

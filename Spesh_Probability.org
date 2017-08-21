@@ -1,0 +1,37 @@
+#+SETUPFILE: setup.org
+#+TITLE: Probablity
+
+* Probability
+
+** Discrete Variables
+
+| x       |   0 |   1 |   2 |   3 |
+| Pr(x=x) | 0.1 | 0.3 | 0.4 | 0.2 |
+
+These are variables that are discrete and do not have a range.
+
+
+** Continuous Variables
+
+This works with variables that have a range.
+
+Probability Desnisty Function
+
+$\int^a_b f(x) dx = 1$
+
+|            | Discrete          | Continuous                         |
+| $E(x) = u$ | $\sum xPr(x)$     | $\int_{-\infy}^{\infy} xf(x) dx $  |
+| $Var(x)$   | $E(x^2)-[E(x)]^2$ | $\int x^2f(x) dx - [\int x(fx)]^2$ |
+| St.Dev(x)  | = \sqrt{Var(x)}   |                                    |
+
+\begin{align*}
+E(aX+bY) &= E(aX) + E(bY)\\
+&= aE(X) + bE(Y)
+\end{align*}
+
+\begin{align*}
+Var(aX+by) &= Var(aX) + Var(bY)\\
+&= a^2Var(X) + b^2Var(Y)
+\end{align*}
+
+

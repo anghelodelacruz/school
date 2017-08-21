@@ -1,0 +1,38 @@
+#+SETUPFILE: setup.org
+#+TITLE: Complex Numbers
+
+If $z = x + yi$ (x,y not both zero), then its multiplicative inverse
+is denoted by $z^{-1}$, where:
+
+$$
+    z^{-1} = \frac{1}{z} = \frac{1}{x+yi} = \frac{1}{x+yi} \times \frac{x-yi}{x-yi} = \frac{x-yi}{x^2+y^2} 
+$$
+
+** Polar Form
+
+*** Multiplication
+
+\begin{align}
+z_1 z_2 &= r_1 cis(\theta_1) r_2 cis(\theta_2)
+&= r_1 r_2 cis(\theta_1 + \theta_2)
+\end{align}
+
+\vbar z_1 z_2 \vbar = r_1 r_2
+
+arg(z_1 z_2) = \theta_1 + \theta_2
+
+*** Division
+
+
+\begin{align}
+\frac{z_1}{z_2} &= \frac{r_1 cis(\theta_1)}{r_2 cis(\theta_2)}
+&= \frac{r_1}{r_2} cis(\theta_1 - \theta_2)
+\end{align}
+
+\vbar \frac{z_1}{z_2} \vbar = \frac{r_1}{r_2}
+
+arg(\frac{z_1}{z_2}) = \theta_1 - \theta_2
+
+
+
+** Factor Theorem

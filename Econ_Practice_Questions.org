@@ -1,7 +1,7 @@
 #+SETUPFILE: setup.org
 #+TITLE: Practice Questions
 
-* A
+* NEXT Paper A
 
 ** Explain how the RBA uses open market operations to increase interest rates.
 

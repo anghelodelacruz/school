@@ -150,9 +150,9 @@ growth and other statistic which are never 100% accurate.
 | Outlays               | $120B |
 | Headline cash deficit | $20B  |
 
-We have a budge tdeficit of $20B for year 2 and we prepare the Budget
+We have a budge deficit of $20B for year 2 and we prepare the Budget
 for year 3, where a budget deficit of only $3B is estimated. This
-estimated deficit is clearly dependan on the *discretionary changes*
+estimated deficit is clearly dependantmeg on the *discretionary changes*
 the government expects to make to the budget, as well as any
 anticipated changes to the *cyclical component* of the budget. It is
 also expected the the economic growth for year 3 to be an estimated
@@ -272,9 +272,9 @@ Use of surplus:
    
 *** Problems with an expansionary budget deficit
 
-Budget deificits can lead to a build up of government (public) debt
-over time. This creates a potential problem for goernments in terms of
-the impact on government credit ratings. if downgraded this can lead
+Budget deficits can lead to a build up of government (public) debt
+over time. This creates a potential problem for governments in terms of
+the impact on government credit ratings. If downgraded this can lead
 to higher borrowing costs and a larger deficit.
 
 #+BEGIN_QUOTE
@@ -295,7 +295,7 @@ in /Consumption/ and /Investment/ (Net exports).
 
 *** Fiscal consolidation and the rationale for delivering a budget surplus
 
-- Help buffer Austraia against future economic decline as surplus
+- Help buffer Australia against future economic decline as surplus
   funds can be saved and then spent.
 - Helps to generate greater international investor confidence in
   Australian government finances preserving Australia's AAA credit
@@ -304,8 +304,8 @@ in /Consumption/ and /Investment/ (Net exports).
   automatically reducing the deficit as the economy recovers.
 - Allows monetary policy to better manage the economy.
 
-** TODO Budget and Economic Goals
-SCHEDULED: <2017-08-20 Sun>
+** NEXT Budget and Economic Goals
+
 
 In terms of Australia's specific domestic macroeconomic goals,
 budgetary policy has a key role to play in the achieving of stability
@@ -322,8 +322,9 @@ in the level of domestic economic activity (also referred to as
 
 *** Budgetary policy and ull employment
 
-** TODO Budgetary Policy and Living Standards
-SCHEDULED: <2017-08-20 Sun>
+
+** NEXT Budgetary Policy and Living Standards
+
 
 ** Strengths and weaknesses of Budgetary Policy
 *** Strengths
@@ -342,7 +343,7 @@ SCHEDULED: <2017-08-20 Sun>
 
 
 
-* Budgetary policy in Action
+* TODO Budgetary policy in Action
 
 ** Recent use of the budget
    

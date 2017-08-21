@@ -1,0 +1,14 @@
+#+SETUPFILE: setup.org
+#+TITLE: Mechanics
+
+Check $1kg wt = 9.8N$
+
+** Normal Reaction Force
+
+** Inclined Planes
+
+** Friction
+
+** Limiting Equilibrium
+
+** 

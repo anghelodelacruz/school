@@ -1,9 +1,18 @@
-* Selection
+* Keybindings
 
-  | M-b     | Delete but keep selection |
-  | C-x r k | Rectangle Delete          |
+** Emacs
 
-* Clock
+| Binding | Action    |
+|---------+-----------|
+| C-x C-f | Find file |
+|         |           |
+
+** Selection
+
+   | M-b     | Delete but keep selection |
+   | C-x r k | Rectangle Delete          |
+
+** Clock
 
 | C-c C-x C-i | Start clock   |
 | C-c C-x C-o | End Clock     |
@@ -11,7 +20,7 @@
 |             |               |
 
 
-* Latex
+** Latex
 
 | C-c C-x C-l | Preview |
 | C-c C-c     | Remove Preview |
@@ -21,11 +30,11 @@
 
 $\bigO(n)$
 
-** Tree Diagrams
+*** Tree Diagrams
 
 [[https://tex.stackexchange.com/questions/161231/how-can-i-produce-this-tree-diagram-in-latex][Tree Diagram]]
 
-* Ace Jump
+** Ace Jump
 
 | C-c C-SPC | char |
 
@@ -40,9 +49,9 @@ integ(x^2, x)
 
 
 
-* Org
+** Org
 
-** Agenda
+*** Agenda
 
 | Binding | Action                  |
 |---------+-------------------------|
