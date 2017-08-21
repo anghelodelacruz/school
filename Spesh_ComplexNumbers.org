@@ -13,26 +13,34 @@ $$
 *** Multiplication
 
 \begin{align}
-z_1 z_2 &= r_1 cis(\theta_1) r_2 cis(\theta_2)
+z_1 z_2 &= r_1 cis(\theta_1) r_2 cis(\theta_2)\\
 &= r_1 r_2 cis(\theta_1 + \theta_2)
 \end{align}
 
-\vbar z_1 z_2 \vbar = r_1 r_2
+$\vert z_1 z_2 \vert = r_1 r_2$
 
-arg(z_1 z_2) = \theta_1 + \theta_2
+$arg(z_1 z_2) = \theta_1 + \theta_2$
 
 *** Division
 
 
 \begin{align}
-\frac{z_1}{z_2} &= \frac{r_1 cis(\theta_1)}{r_2 cis(\theta_2)}
+\frac{z_1}{z_2} &= \frac{r_1 cis(\theta_1)}{r_2 cis(\theta_2)}\\
 &= \frac{r_1}{r_2} cis(\theta_1 - \theta_2)
 \end{align}
 
-\vbar \frac{z_1}{z_2} \vbar = \frac{r_1}{r_2}
+$\vert \dfrac{z_1}{z_2} \vert = \dfrac{r_1}{r_2}$
 
-arg(\frac{z_1}{z_2}) = \theta_1 - \theta_2
+$arg(\dfrac{z_1}{z_2}) = \theta_1 - \theta_2$
 
 
 
 ** Factor Theorem
+
+| adf | adf |
+|     |     |
+|     |     |
+
+
+
+
