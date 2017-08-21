@@ -2,10 +2,28 @@
 #+TITLE: Practice Questions
 
 * NEXT Paper A
+  CLOCK: [2017-08-21 Mon 19:20]--[2017-08-21 Mon 19:52] =>  0:32
 
 ** Explain how the RBA uses open market operations to increase interest rates.
 
-** Evaulate the efficitiveness of monetary policy in achieving domestic economic stabililty over the last three years.
+The RBA controls interest rates through the open market
+operations. This is achieved through changing the liquidity in the
+banks by the buying and selling of securities. To increase the
+interest rates, the RBA will sell commonwealth government securities
+and this will reduce the liquidity of the banks. This affects the
+supply of the reserve causing the banks to raise their interest rates.
+
+** Evaulate the effectiveness of monetary policy in achieving domestic economic stabililty over the last three years.
+
+It can be said the that RBA has successfully employed monetary policy
+over recent years as inflation is no longer an issue. Its expansionary
+stance has helped to stimulate economic and employment growth. Since
+2013, growth hasn't dropped below 2% and has reached target goal of
+3.3% in 2015-2016. However during 2016 the rate of inflation fell to
+1% with the possibility of deflation and reduced the cash rate lower
+to 1.5%. This effectiveness in the future can be questioned as now
+there is a relatively high level of household indebtedness. This can
+also have negative impacts on those reliant on interest income.
 
 ** Consider the following information
 
@@ -17,11 +35,43 @@
   to move the budgget to a surplus in 2012-13.
 #+END_QUOTE
 
-*** Describe the policy stane adopted by the government in relation to budgetary policy for the period identified above.
+*** Describe the policy stance adopted by the government in relation to budgetary policy for the period identified above.
+
+The policy stance in the year 2010-2011 was a more contractionary
+stance as the deficit is predicted to be reduced from $52.9b to
+$40.8b. This is also evident in their plans to move the budget to
+surplus in the coming two years.
+
 *** Explain the difference in the stance adopted by the Reserve Bank in setting monetary policy.
-*** Monetary and budgetary policies are often referred to as 'demand management poicies'. Explain this means.
-*** Explain the effect of the monetary Policy stance on inflation and material living standards.
+
+Holding a steady cash rate shows a neutral stance allowing the
+business cycle and automatic stabilisers to play their role. However
+an unchanged monetary policy held above the usual 3.5% can be seen as
+an contractionary monetary policy as it is more accommdating. This is
+similar with the governments more contractionary stance compared to
+the previous year.
+
+*** Monetary and budgetary policies are often referred to as 'demand management policies'. Explain this means.
+
+Monetary and budgetary policies can be refered to as demand management
+policies due to its ability to affect the aggregate demand and
+unemployment of a nation aswell as its interest rates which also
+impact on AD. Monetary policy is also unable to affect certain
+pressures supply side issues such as cost inflation.
+
+*** Explain the effect of the Monetary Policy Stance on inflation and material living standards.
+
+
+
 *** Explain how budgetary policy may be used to overcome a slowing economy and how this may negatively impact upon external stability.
+
+During a slowing economy the budget outcome will be a
+deficit. Expansionary budgetary policies can be financed in several
+ways. One of these ways is through selling bonds to Australian
+Investors. This will create the problem of crowding out not only in
+the private sector but also in the external sector. This is caused by
+the higher interest rates pushed onto local borrowers causing
+exporters and import businesses to lose market share.
 
 ** Consider the following
 
@@ -35,11 +85,21 @@ target over the next two years.'
 
 *** Define the economic goal of strong and sustainable economic growth
 
+
+
 *** What is the likely effect of *each* of the following factors on economic growth?
 
 **** continued low interest rates
 
+A continued low interest rate could lead to high unstable economic
+activity. This could cause a number of problems such as inflationary
+presssures and low savings and investment. This effects our
+intertemporal efficiency as resources are high in spending. 
+
 **** the lower exchange rate
+
+A lower exchange rate benefits exporters but also hinders
+imports. 
 
 *** Assuming the predictions in the Reserve Bank of Australia's statement prove to be correct, discuss the monetary policy setting (stance) likely to be taken by the RBA over the next two years.
 
