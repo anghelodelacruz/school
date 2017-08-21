@@ -646,7 +646,7 @@ hostage negotiators.  He told them he pledged allegiance to ISIS and
 wanted people to know the pain that Syrains and Iraqis felt.
 
     
-** TODO How the values are represented
+** How the values are represented
 
 * Past Exams
 

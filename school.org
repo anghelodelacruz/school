@@ -24,7 +24,7 @@
 
 ** Emacs
 
-*** TODO Evil Mode
+*** DONE Evil Mode
 
 *** TODO Themes
 

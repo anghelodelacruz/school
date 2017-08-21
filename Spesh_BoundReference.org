@@ -1,6 +1,90 @@
 #+SETUPFILE: setup.org
-#+TITLE: Bound Referene
+#+TITLE: Bound Reference
 
-* NEXT Bound Reference
+* Trigonometry
+* Complex Numbers
 
-** 
+** Complex Conjugates
+
+- $\overline{z_1 + z_2} = \overline{z_1} + \overline{z_2}$
+- $\overline{z_1 \times z_2} = \overline{z_1} \times \overline{z_2}$
+- $\bar{\bar{z}} = z$
+
+If $z = x + yi$ (x,y not both zero), then its multiplicative inverse
+is denoted by $z^{-1}$, where:
+
+$$
+    z^{-1} = \frac{1}{z} = \frac{1}{x+yi} = \frac{1}{x+yi} \times \frac{x-yi}{x-yi} = \frac{x-yi}{x^2+y^2} 
+$$
+
+** Polar Form
+
+\begin{align}
+z &= r( cos(\theta) + i sin(\theta))\\
+&= r cis(\theta) = r cis(\theta \pm 2n\pi), n \in J\\
+\text{where } r &= \sqrt{x^2 + y^2} \text{ and } tan(\theta)= \dfrac{y}{x}
+\end{align}
+
+- Cartesian Form: $z = x + yi$
+- $r = \vert z \vert = \sqrt{x^2+y^2}$
+- Arg(z) = \theta, -\pi < \theta < \pi
+
+** Multiplication
+
+\begin{align}
+z_1 z_2 &= r_1 cis(\theta_1) r_2 cis(\theta_2)\\
+&= r_1 r_2 cis(\theta_1 + \theta_2)
+\end{align}
+
+- $\vert z_1 z_2 \vert = r_1 r_2$
+- $arg(z_1 z_2) = \theta_1 + \theta_2$
+
+** Division
+
+
+\begin{align}
+\frac{z_1}{z_2} &= \frac{r_1 cis(\theta_1)}{r_2 cis(\theta_2)}\\
+&= \frac{r_1}{r_2} cis(\theta_1 - \theta_2)
+\end{align}
+
+- $\bigg\vert \dfrac{z_1}{z_2} \bigg\vert = \dfrac{r_1}{r_2}$
+- $arg \bigg( \dfrac{z_1}{z_2} \bigg) = \theta_1 - \theta_2$
+
+** De Moivre's Theorem
+
+$$
+    z^n = r^n cis(n\theta), n \in N
+$$
+
+** Fundamental Theorem of Algebra
+
+- Polynomial equations with real coefficients have imaginary roots which occur in pairs.
+
+** Factor Theorem
+
+$$ P(z), P \bigg( \dfrac{b}{a} \bigg) = 0, \text{ then } \bigg( z-
+\dfrac{b}{a} \bigg) \text{ or } (az-b) \text{ is a factor of } P(z) $$
+
+** Relations and regions in the complex plane
+
+** Lines
+
+* Coordinate Geometry
+
+* Integration
+
+* Applications of Integration
+
+* Differential Equations
+
+* Kinematics
+
+* Vectors
+
+* Vector Calculus
+
+* Statics
+
+* Dynamics
+
+* Momentum

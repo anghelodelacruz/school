@@ -3,8 +3,8 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<title>Complex Numbers</title>
-<!-- 2017-08-21 Mon 17:24 -->
+<title>Bound Reference</title>
+<!-- 2017-08-21 Mon 18:16 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Anghelo De La Cruz" />
@@ -181,21 +181,57 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Complex Numbers</h1>
+<h1 class="title">Bound Reference</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Polar Form</a>
+<li><a href="#sec-1">1. Trigonometry</a></li>
+<li><a href="#sec-2">2. Complex Numbers</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Multiplication</a></li>
-<li><a href="#sec-1-2">1.2. Division</a></li>
+<li><a href="#sec-2-1">2.1. Complex Conjugates</a></li>
+<li><a href="#sec-2-2">2.2. Polar Form</a></li>
+<li><a href="#sec-2-3">2.3. Multiplication</a></li>
+<li><a href="#sec-2-4">2.4. Division</a></li>
+<li><a href="#sec-2-5">2.5. De Moivre's Theorem</a></li>
+<li><a href="#sec-2-6">2.6. Fundamental Theorem of Algebra</a></li>
+<li><a href="#sec-2-7">2.7. Factor Theorem</a></li>
+<li><a href="#sec-2-8">2.8. Relations and regions in the complex plane</a></li>
+<li><a href="#sec-2-9">2.9. Lines</a></li>
 </ul>
 </li>
-<li><a href="#sec-2">2. Factor Theorem</a></li>
+<li><a href="#sec-3">3. Coordinate Geometry</a></li>
+<li><a href="#sec-4">4. Integration</a></li>
+<li><a href="#sec-5">5. Applications of Integration</a></li>
+<li><a href="#sec-6">6. Differential Equations</a></li>
+<li><a href="#sec-7">7. Kinematics</a></li>
+<li><a href="#sec-8">8. Vectors</a></li>
+<li><a href="#sec-9">9. Vector Calculus</a></li>
+<li><a href="#sec-10">10. Statics</a></li>
+<li><a href="#sec-11">11. Dynamics</a></li>
+<li><a href="#sec-12">12. Momentum</a></li>
 </ul>
 </div>
 </div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Trigonometry</h2>
+</div>
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Complex Numbers</h2>
+<div class="outline-text-2" id="text-2">
+</div><div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> Complex Conjugates</h3>
+<div class="outline-text-3" id="text-2-1">
+<ul class="org-ul">
+<li>\(\overline{z_1 + z_2} = \overline{z_1} + \overline{z_2}\)
+</li>
+<li>\(\overline{z_1 \times z_2} = \overline{z_1} \times \overline{z_2}\)
+</li>
+<li>\(\bar{\bar{z}} = z\)
+</li>
+</ul>
+
 <p>
 If \(z = x + yi\) (x,y not both zero), then its multiplicative inverse
 is denoted by \(z^{-1}\), where:
@@ -206,78 +242,141 @@ $$
     z^{-1} = \frac{1}{z} = \frac{1}{x+yi} = \frac{1}{x+yi} \times \frac{x-yi}{x-yi} = \frac{x-yi}{x^2+y^2} 
 $$
 </p>
+</div>
+</div>
 
-<div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1"><span class="section-number-2">1</span> Polar Form</h2>
-<div class="outline-text-2" id="text-1">
-</div><div id="outline-container-sec-1-1" class="outline-3">
-<h3 id="sec-1-1"><span class="section-number-3">1.1</span> Multiplication</h3>
-<div class="outline-text-3" id="text-1-1">
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> Polar Form</h3>
+<div class="outline-text-3" id="text-2-2">
+\begin{align}
+z &= r( cos(\theta) + i sin(\theta))\\
+&= r cis(\theta) = r cis(\theta \pm 2n\pi), n \in J\\
+\text{where } r &= \sqrt{x^2 + y^2} \text{ and } tan(\theta)= \dfrac{y}{x}
+\end{align}
+
+<ul class="org-ul">
+<li>Cartesian Form: \(z = x + yi\)
+</li>
+<li>\(r = \vert z \vert = \sqrt{x^2+y^2}\)
+</li>
+<li>Arg(z) = &theta;, -&pi; &lt; &theta; &lt; &pi;
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-2-3" class="outline-3">
+<h3 id="sec-2-3"><span class="section-number-3">2.3</span> Multiplication</h3>
+<div class="outline-text-3" id="text-2-3">
 \begin{align}
 z_1 z_2 &= r_1 cis(\theta_1) r_2 cis(\theta_2)\\
 &= r_1 r_2 cis(\theta_1 + \theta_2)
 \end{align}
 
-<p>
-\(\vert z_1 z_2 \vert = r_1 r_2\)
-</p>
-
-<p>
-\(arg(z_1 z_2) = \theta_1 + \theta_2\)
-</p>
+<ul class="org-ul">
+<li>\(\vert z_1 z_2 \vert = r_1 r_2\)
+</li>
+<li>\(arg(z_1 z_2) = \theta_1 + \theta_2\)
+</li>
+</ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-2" class="outline-3">
-<h3 id="sec-1-2"><span class="section-number-3">1.2</span> Division</h3>
-<div class="outline-text-3" id="text-1-2">
+<div id="outline-container-sec-2-4" class="outline-3">
+<h3 id="sec-2-4"><span class="section-number-3">2.4</span> Division</h3>
+<div class="outline-text-3" id="text-2-4">
 \begin{align}
 \frac{z_1}{z_2} &= \frac{r_1 cis(\theta_1)}{r_2 cis(\theta_2)}\\
 &= \frac{r_1}{r_2} cis(\theta_1 - \theta_2)
 \end{align}
 
+<ul class="org-ul">
+<li>\(\bigg\vert \dfrac{z_1}{z_2} \bigg\vert = \dfrac{r_1}{r_2}\)
+</li>
+<li>\(arg \bigg( \dfrac{z_1}{z_2} \bigg) = \theta_1 - \theta_2\)
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-2-5" class="outline-3">
+<h3 id="sec-2-5"><span class="section-number-3">2.5</span> De Moivre's Theorem</h3>
+<div class="outline-text-3" id="text-2-5">
 <p>
-\(\vert \dfrac{z_1}{z_2} \vert = \dfrac{r_1}{r_2}\)
+$$
+    z^n = r^n cis(n\theta), n \in N
+$$
 </p>
+</div>
+</div>
 
+<div id="outline-container-sec-2-6" class="outline-3">
+<h3 id="sec-2-6"><span class="section-number-3">2.6</span> Fundamental Theorem of Algebra</h3>
+<div class="outline-text-3" id="text-2-6">
+<ul class="org-ul">
+<li>Polynomial equations with real coefficients have imaginary roots which occur in pairs.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-2-7" class="outline-3">
+<h3 id="sec-2-7"><span class="section-number-3">2.7</span> Factor Theorem</h3>
+<div class="outline-text-3" id="text-2-7">
 <p>
-\(arg(\dfrac{z_1}{z_2}) = \theta_1 - \theta_2\)
+$$ P(z), P \bigg( \dfrac{b}{a} \bigg) = 0, \text{ then } \bigg( z-
+\dfrac{b}{a} \bigg) \text{ or } (az-b) \text{ is a factor of } P(z) $$
 </p>
 </div>
 </div>
+
+<div id="outline-container-sec-2-8" class="outline-3">
+<h3 id="sec-2-8"><span class="section-number-3">2.8</span> Relations and regions in the complex plane</h3>
 </div>
 
-
-
-<div id="outline-container-sec-2" class="outline-2">
-<h2 id="sec-2"><span class="section-number-2">2</span> Factor Theorem</h2>
-<div class="outline-text-2" id="text-2">
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="left" />
-
-<col  class="left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="left">adf</td>
-<td class="left">adf</td>
-</tr>
-
-<tr>
-<td class="left">&#xa0;</td>
-<td class="left">&#xa0;</td>
-</tr>
-
-<tr>
-<td class="left">&#xa0;</td>
-<td class="left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
+<div id="outline-container-sec-2-9" class="outline-3">
+<h3 id="sec-2-9"><span class="section-number-3">2.9</span> Lines</h3>
 </div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Coordinate Geometry</h2>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Integration</h2>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Applications of Integration</h2>
+</div>
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> Differential Equations</h2>
+</div>
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> Kinematics</h2>
+</div>
+
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> Vectors</h2>
+</div>
+
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9"><span class="section-number-2">9</span> Vector Calculus</h2>
+</div>
+
+<div id="outline-container-sec-10" class="outline-2">
+<h2 id="sec-10"><span class="section-number-2">10</span> Statics</h2>
+</div>
+
+<div id="outline-container-sec-11" class="outline-2">
+<h2 id="sec-11"><span class="section-number-2">11</span> Dynamics</h2>
+</div>
+
+<div id="outline-container-sec-12" class="outline-2">
+<h2 id="sec-12"><span class="section-number-2">12</span> Momentum</h2>
 </div>
 </div>
 </body>

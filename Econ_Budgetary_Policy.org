@@ -304,7 +304,7 @@ in /Consumption/ and /Investment/ (Net exports).
   automatically reducing the deficit as the economy recovers.
 - Allows monetary policy to better manage the economy.
 
-** NEXT Budget and Economic Goals
+** Budget and Economic Goals
 
 
 In terms of Australia's specific domestic macroeconomic goals,
@@ -314,16 +314,99 @@ in the level of domestic economic activity (also referred to as
 
 *** Stablising the business cycle
 
+In the past, governments used budgets to stabilise the level of domestic economic
+activity.
+
+During a trough in the business cycle, the government would typically
+use the policy in a counter-cyclical way. It could seek to reduce the
+budget deficit or increase surplus by:
+
+- allow automatic stabilisers to play their part
+- implement a more 'expansionary' policy stance (by spending or
+  decreasing tax burden.)
+
+Similarly during a peak, the government could use the budget to slow
+demand inflationary pressure by:
+
+- allow automatic stabilisers to increase the size of the surplus and slow growth
+- implement a more 'contractionary' policy stance by decreasing spending (increase taxes)
+
 *** Changing role of Budgetary Policy
+
+The stabilisation role of budgetary policy became irrelevant during
+1996-2007 during Howard Liberal Government. The government preferred
+to leave the stabilisation role of policy to the RBA.
+
+Post 2007, the stabilisation role of budgetary policy became more
+evident where government delivered a mildly contractionary budget to
+assist RBA efforts. An expansionary budgetary policy was used to avoid
+a technical recession during the GFC. 
+
+Other ways the government assist with internal stabililty
+(simultaneous achievement of economic growth, full employment and low
+inflation.)
+
+- Supply side initiatives boosting aggregate supply to boost growth,
+  reduce inflation and create jobs.
+- Demand side initiatives that aim to boost AD and create jobs.
 
 *** Budgetary policy and low inflation
 
+Budgetary policy can assist the RBA in a number of ways:
+
+- Structural surplus to affect 'contractionary' impact on AD.
+- Demand-driven inflation can be countered through restrained growth
+  such as higher tax rates or lower government spending.
+- Supply-driven inflation can be countered by supply side initiatives. (Reducing excise tax on petrol)
+  - Boost investment spending on infrastructure or capital works.
+  - Private sector incentives to increase investment.
+
 *** Budgetary policy and strong and sustainable growth
 
-*** Budgetary policy and ull employment
+Expanionary budget are usually expected to assist in achieving
+economic growth. This is the typical Keynesian approach used in the
+past to good effect as additional government spending (G1 and/or G2).
 
+Special initiatives can also be introduced such as:
 
-** NEXT Budgetary Policy and Living Standards
+- Increased transfer payments (pensions)
+- Bonus stimulus payments to taxpayers
+- Personal tax cuts to increase disposable incomes
+- Business tax (company tax rates)
+- Increases to G1 or G2 spending (infrastructure)
+- Accelerated depreciation allowanes to encourage greater investment in capital equipment
+- Assistance to industry such as Grants for smaller business export markets.
+- Subsidy support to business or industries to overcome natural disasters or changes in AUD
+
+*** Budgetary policy and full employment
+
+Budgetary policy is the primary policy to tackle the problem of
+unemployment. This is because it can be used to reduce cyclical
+unemployment by creating jobs at a macroeconomic level; reduce
+structural unemployment by assisting in re-training labour; and create
+job vacancies. Overall, it can be used for structural, cyclical,
+long-term or youth unemployment.
+
+Microeconomic focused measures would include:
+
+- A work for the dole scheme
+- Increased funding for beter job placements
+- Funding for the unemployed to start businesses
+- Increased expenditure on training and education
+- Subsidies to business to take specific job seekers (older, longer-term, younger)
+- Welfare to work initiatives
+
+** Budgetary Policy and Living Standards
+
+Besides the intermeidate goal of lviing standards. The budget is also
+used to reallocate resources during market failure. This can be done by:
+
+- funding for the provision of public goods
+- provision or support of goods with positive externalities in consumption or produciton
+- taxes on goods with negative externalities in consumption or production
+- establishment of a public sector monopoly (Australia Post)
+- funding for bodies like the Australian Consumer and Competition
+  Commission and the Australian Securities and Investments Commission
 
 
 ** Strengths and weaknesses of Budgetary Policy
@@ -339,8 +422,7 @@ in the level of domestic economic activity (also referred to as
 - Political bias
 - Imlementation lag
 - Inflexible
-- Less effective at restricting AD during a boom
-
+- Less effective at restricting AD durin
 
 
 * TODO Budgetary policy in Action
