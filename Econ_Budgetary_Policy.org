@@ -69,9 +69,11 @@ flows that do not directly impact on the economy.
 
 *** Underlying Cash Outcome
 
-This is the total cash received by the Federal Government subtracted
-by the total cash paid. This can be misleading as it includes cash
-flows that do not directly impact on the economy.
+The underlying cash outcome excludes the cash flows that are included
+in the headline cash outcome but that do not directly impact on the
+economy. It provides the best indicator of the budgetary policy stance
+of the Federal Government and the impact is it likely to have on the
+economy in the short term.
 
 - Future Fund Earnings :: - interest and dividends earned by
      government owned 'Future fund'. Excluded as earnings are mandated
