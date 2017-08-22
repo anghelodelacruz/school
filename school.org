@@ -5,6 +5,8 @@
 
 ** Emails
 
+*** NEXT Mr Robinson about recursion
+*** NEXT Mrs Beckman about filming
 
 ** Personal
 
@@ -24,19 +26,21 @@
 
 ** Emacs
 
+*** Learn Metapost
+*** Learn Evil Mode Visual
 *** DONE Evil Mode
 
-*** TODO Themes
+*** Themes
 
-*** TODO AucTex
+*** AucTex
 
-*** TODO Org Refile
+*** Org Refile
 
-*** TODO Org Capture
+*** Org Capture
 
-*** TODO Projectile
+*** Projectile
 
-*** TODO Magit
+*** Magit
 
 * Timetable
   

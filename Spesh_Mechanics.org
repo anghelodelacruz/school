@@ -1,7 +1,7 @@
 #+SETUPFILE: setup.org
 #+TITLE: Mechanics
 
-Check $1kg wt = 9.8N$
+** TODO Check $1kg wt = 9.8N$
 
 ** Normal Reaction Force
 
@@ -14,7 +14,7 @@ Check $1kg wt = 9.8N$
 ** 
 
 
-* TB
+* NEXT TB
 
 ** Equilibrium
 
