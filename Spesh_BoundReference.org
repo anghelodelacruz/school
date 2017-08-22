@@ -2,6 +2,7 @@
 #+TITLE: Bound Reference
 
 * Trigonometry
+
 * Complex Numbers
 
 ** Complex Conjugates

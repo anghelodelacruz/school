@@ -1,0 +1,51 @@
+#+SETUPFILE: setup.org
+#+TITLE: Trigonometry
+
+* Summary
+
+** Reciprocal Functions
+
+\begin{align*}
+    cosec(\theta) &= \dfrac{1}{sin(\theta)}\\
+    sec(\theta) &= \dfrac{1}{cos(\theta)}\\
+    cot(\theta) &= \dfrac{1}{tan(\theta)}\\
+\end{align*}
+
+** Pythagorean Identities
+
+\begin{align*}
+    sin^2(t) + cos^2(t) = 1\\[3pt]
+    tan^2(t) + 1 = sec^2(t)\\[3pt]
+    1 + cot^2(t) = csc^2(t)\\[3pt]
+\end{align*}
+
+** Compound Angle Formulas
+
+** Double Angle Formulas
+
+\begin{align*}
+    sin(2x) &= 2 sin(x) cos(x)\\[2pt]
+    cos(2x) &= cos^2(x) - sin^2(x) = 2cos^2(x) - 1 = 1 - 2sin^2(x)\\[3pt]
+    tan(2x) &= \dfrac{2tan(x)}{1-tan^2(x)}\\[3pt]
+    sin(2x) &= \dfrac{2tan(x)}{1+tan^2(x)}\\[3pt]
+    cos(2x) &= \dfrac{1-tan^2(x)}{1+tan^2(x)}\\ 
+\end{align*}
+** Inverse Trigonometric Functions
+
+\begin{align*}
+    f:[-1,1] \rightarrow &\bigg[ -\dfrac{\pi}{2}, \dfrac{\pi}{2} \bigg], f(x) = sin^{-1}(x)\\
+    &sin(sin^{-1}(x)) = x \text{ if } x \in [-1, 1]\\
+    &sin^{-1}(sin(x)) = x \text{ if } x \in \bigg[ -\dfrac{\pi}{2}, \dfrac{\pi}{2} \bigg] 
+\end{align*}
+
+\begin{align*}
+    f:[-1,1] \rightarrow &[0, \pi], f(x) = cos^{-1}(x)\\
+    &cos(cos^{-1}(x)) = x \ \text{ if } x \in [-1, 1]\\
+    &cos^{-1}(cos(x)) = x \ \text{ if } x \in [0, \pi] 
+\end{align*}
+
+\begin{align*}
+    f:R \rightarrow &\bigg( -\dfrac{\pi}{2}, \dfrac{\pi}{2} \bigg), f(x) = tan^{-1}(x)\\
+    &tan(tan^{-1}(x)) = x \ \text{ if } x \in R\\
+    &tan^{-1}(tan(x)) = x \ \text{ if } x \in \bigg[ -\dfrac{\pi}{2}, \dfrac{\pi}{2} \bigg] 
+\end{align*}
