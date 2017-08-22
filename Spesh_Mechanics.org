@@ -6,9 +6,40 @@ Check $1kg wt = 9.8N$
 ** Normal Reaction Force
 
 ** Inclined Planes
-
+   
 ** Friction
 
 ** Limiting Equilibrium
 
 ** 
+
+
+* TB
+
+** Equilibrium
+
+*** Angles other than right angles
+
+** Lami's Theorem
+
+** Other forces
+
+*** Weight Force
+
+*** Tension
+
+** Resolving forces
+
+** Inclined Planes
+
+** Connected Particles
+
+** Momentum
+
+** Resultant Force
+
+** Smooth Pulleys
+
+** Atwood's Machine
+
+** Connected vehicles
