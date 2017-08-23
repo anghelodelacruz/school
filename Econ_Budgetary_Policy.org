@@ -473,10 +473,12 @@ of GDP by 2023-24. This required:
 
 - 2016-17 :: 32.5% tax threshold increased from $80k to $87k. 
 $$
-    \uparrow\text{disposable income}
+    \uparrow\text{disposable income} = \ \uparrow\text{consumption and } \uparrow\text{AD} = \ \uparrow\text{growth} = \ \uparrow\text{employment}
 $$
 
 *** Government (Infrastructure) Investment
+
+- Infrastructure growth package :: 
 
 *** Business Tax Changes
 
