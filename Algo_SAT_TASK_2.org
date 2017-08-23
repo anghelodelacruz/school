@@ -26,7 +26,7 @@
 * TODO Question 3
 
 - Describe the relationship in a methodical and systematic way using
-  mathematrcal notation and compuer science conventions for the time
+  mathematrcal notation and computer science conventions for the time
   complexity of the new version of algorithm with regards to its input
   size and its asymptotic running time in the best and worst cases.
 - Desribe the situations where the best case time complexity will
@@ -69,17 +69,47 @@ There are two ways I would improve this algorithm:
 
 * Solution 2
 
-#+BEGIN_LATEX 
-\begin{algorithm}
-    \begin{MinOP_BT}[n, Operator, Operand, MinCount]
-    \foreach afds
-    \end{Min_OP_BT}
-\end{algorithm}
-#+END_LATEX
+#+BEGIN_SRC ruby
+=begin
+
+INPUTS: n, Operations, Operator, Operand
+OUTPUTS: minCount
+ASSUMPTIONS: n > 1
+
+=end
+
+Function MinOP()
+    def m = [1] 
+    For i in 2..n do
+        set MinCount = 999999
+        For j in 1..len(operations) do
+            If operator[j] = "-" then
+                If m[i-operand[j]] < minCount then
+                    minCount = m[i-Operand[j]]
+            Elseif Operator[j] = "/" then
+                If mod(i,Operand[j]) = 0 then
+                    If m[n/operand[j]] < minCount then
+                        minCount = m[n/operand[j]]
+            def m[n] = minCount
+    print "The Minimum amount of operations is " + #{m[n]}
+end function
+#+END_SRC
 
 * Solution 3
+
+** Part (a)
+
+\begin{align*}
+O(1) + O(n-1) \bigg( O(m) \big( 6O(1) \big) \bigg)
+\end{align*}
+
+** Part (b)
+
+
 
 * Solution 4
 
 
+** Part (a)
 
+My algorithm of MinOP has a more concealed upper and lower bound. 
