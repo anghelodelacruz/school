@@ -13,7 +13,7 @@
 - Describe in detail the aspects of the methodology you would use for
   the design of the improved algortithm.
 
-* TODO Question 2
+* DONE Question 2
 
 - Write in pseudocode your own improved time complexity version of
   this algorithm. This algorithm should use meaningful variable names,

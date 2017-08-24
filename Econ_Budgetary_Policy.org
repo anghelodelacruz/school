@@ -400,7 +400,7 @@ Microeconomic focused measures would include:
 
 ** Budgetary Policy and Living Standards
 
-Besides the intermeidate goal of lviing standards. The budget is also
+Besides the intermeidate goal of living standards. The budget is also
 used to reallocate resources during market failure. This can be done by:
 
 - funding for the provision of public goods
@@ -522,4 +522,123 @@ to achieve fiscal consolidation.
 *** Inflation
 
 
+* SAC Preparation
 
+** Definitions
+
+Orange words in tb
+
+- Budget ::
+- Projections :: 
+- Living Standard :: 
+- Welfare :: 
+- Fiscal Strategy :: 
+- Consumption / Current Expenditure :: 
+- Capital (investment) Expenditure :: 
+- Headline :: 
+- Underlying :: 
+- Future Fund Earnings :: 
+- Investment in Financial Assets :: 
+- Structural Component :: 
+- Cyclical Component :: 
+- Automatic Stabilisers :: 
+- Discretionary Stabilisers :: 
+- Fiscal Drag / Bracket Creep :: 
+- Real wage ::
+- Nominal Wage :: 
+- Real Disposable Income :: 
+- Actual Budget Outcome :: 
+- Estimated Budget Outcome :: 
+- Contractionary :: 
+- Expansionary :: 
+- Budgetary Policy Stance :: 
+- Crowding Out :: 
+- Credit Ratings :: 
+- Medium Term Fiscal Strategy :: 
+- Internal Stability :: 
+- Counter Cyclical :: 
+- Technical Recession :: 
+- Supply Side Initiatives :: 
+- Intermediate Goals :: 
+- Impact lag :: 
+- Checks and Balances :: 
+- Public scrutiny :: 
+- Political hurdles :: 
+- Lobby groups :: 
+- Net Financial Worth :: 
+- Budget repair strategy :: 
+- Zombie measures :: 
+- gross debt :: 
+- net debt :: 
+- Net Government Debt :: 
+- Public Debt :: 
+- Household Debt :: 
+- Ten Year Enterprise Tax Plan :: 
+- Youth Employment Package :: 
+- Drought Concessional Loan Scheme :: 
+- :: 
+
+** Discretionary Stabilisers
+
+The Structual Component of the budget which are deliberate policy
+decisions designed to change receipts or outlays in an effort to
+influence economic activity.
+
+** Strengths and Weaknesses
+
+*** Strengths
+- Target particular sectors
+- Greater range of economic goals
+- Impact lag
+- Effictively stimulating AD
+- Effect through automatic stabilisers
+- Checks and balances
+*** Weakness
+- Political hurdles
+- Political bias
+- Imlementation lag
+- Inflexible
+- Less effective at restricting AD durin
+
+
+** Budgetary Policy and National Savings
+
+Budgetary policy has a key role to play in achieving stability in the
+level of domestic economic activity. A country's national savings is
+the sum of private and public savings. It is generally equal to a
+nation's income minus consumption and government purchases. Through
+this direct impact on national savings the budgets outcome can affect
+a country's national savings. However the initiatives the government
+delievers can also alter national savings through a deficit financing
+which reduces Consumption and Investment through increased interest
+rates. 
+
+** Graph
+
+** Budgets
+
+*** AD
+    
+*** Economic Goals
+
+** Structural and Cyclical Components
+
+
+
+** Tax Cuts and Labour Market 
+
+Answer from [[*Budgetary%20policy%20and%20full%20employment][Budgetary policy and full employment]].
+
+Through the government measures to achieve growth, some businesses
+will eventually increase their demand for labour with the growth in
+output levels, AD and macroeconomic benefits of employment. Also the
+government can:
+
+- A work for the dole scheme
+- Increased funding for beter job placements
+- Funding for the unemployed to start businesses
+- Increased expenditure on training and education
+- Subsidies to business to take specific job seekers (older, longer-term, younger)
+- Welfare to work initiatives
+
+** Impact of Budget Deficit
