@@ -1,0 +1,180 @@
+#+SETUPFILE: setup.org
+#+TITLE: 4.8 Heuristics
+#+OPTIONS: num:nil
+
+
+* Heuristics
+
+
+** Tractbility
+| Problems     | Condition                                                  |
+|--------------+------------------------------------------------------------|
+| Tractable    | Problems that have reasonable polynomial-time solutions    |
+| Intractable  | Problems that have no reaonable, polynomial time solutions |
+| Uncomputable | Problems that have no algorithms at all to solve them      |
+
+*** Tractable Problems
+
+A problem that has a reasonable or polynomial time complexity.
+
+Therefore the algorithm to solve the probllem will have time
+complexity: $T(n)=O(cn^k)$, where c and k are constants.
+
+**** Example
+
+- Searching an unordered list
+- Searching an ordered list
+- Sorting a list
+
+**** Tractable Problems expolored in Unit 3
+
+- Minimum Spanning Tree $\rightarrow$ Prim's Algorithm $O( \vert V \vert^2)$
+- Shortest Path \rightarrow Floyd Warshall's $O(\vert V\vert^3)$
+- Sorting a List \rightarrow MergSort $O(n\log n)$
+ 
+
+*** Intractable Problems
+
+A problem that cannot be solved in polynomial time that has a
+unreasonable or exponential time complexity solution is said to be
+intractable.
+
+- $T(n) = O(2^n)$
+- $T(n) = O(n!)$
+- $T(n) = O(n^n)$
+
+**** Examples
+
+- Travelling salesman problem
+- Longest path problem
+- Multimachine job scheduling problem
+
+
+
+
+** Combinatorial Explosions
+
+Combinations of x items from n items:
+
+$$
+   ^nC_x = \binom nx = \dfrac{n!}{x!(n-x)!} \text{ where 0!=1}
+$$
+
+
+*** Example
+
+In a group of 3 girlsm how many photos are needed for every combination?
+
+- 0 girls in a photo $^3C_0 = \binom 30 = 1$
+- 1 girls in a photo $^3C_1 = \binom 31 = 3$
+- 2 girls in a photo $^3C_2 = \binom 32 = 3$
+- 3 girls in a photo $^3C_3 = \binom 33 = 1$
+- $\therefore$ Photos needed $= 1 +3 +3 +1 = 8$
+
+*** Monkey Puzzle Problem
+
+- Given:
+  - A set of n square cards who sides are imprinted with the upper and
+    lower halves of colored monkeys.
+  - n is a square number such that $n=m^2$
+  - Cards cannot be rotated
+- Problem:
+  - Determine if an arrangement of the n cards in an $m \times x$ gird
+    exists such that each adjacement pair of cards display the upper
+    and lower half of a monkey of the same color.
+
+(image)
+
+**** Analysis
+
+- If there are $n=9$ cards
+- To fill the first cell, we have 9 card choices
+- To fill the second cell, we have 8 card choices
+- To fill the third cell we have 7 card choices remaining ...etc
+- The total number of unique arrangements for $n=9$ cards is $9! =
+  362,880$
+
+For n cards, the number of arrangements to examine is n!. If we can
+analyse one arrangement in a microsecond
+
+\begin{align*}
+9! &= 362,880 \mu s = 0.36288s\\
+16! &= 20,922,789,888,000 \mu s \approx 242 \text{ days}\\
+25! &= 15,511,210,043,330,985,984,000,000 \mu s = 491,520,585,955 \text{ years}
+\end{align*}
+
+
+
+*** Travelling Salesman Problem
+
+#+BEGIN_QUOTE
+- Input: There are n cities
+- Output: Find the shortest tour from a particular city that visit
+  each city exactly once before returning to the city where it
+  started.
+#+END_QUOTE
+
+A hamiltonian circuit can be represented by a sequence of $n+1$ cities
+$v1, v2, \dots , vn$. Where the first and the last are the same and all
+the others are distint.
+
+- A brute force or exhaustive search has $(n-1)(n-2)(n- \dots) \dots$
+
+
+** Problem Classification
+
+What is the best time complexity algorithm for solving a particular
+problem?
+
+*** Time Consumption of solutions by time complexity
+
+*** Class P
+
+- A solution can be found in polynomial time.
+- deterministic algorithm :: one that always computes the correct
+     answer
+
+*** Class NP
+
+- A solution can be verified in polynomial time
+- Non-determinsitic polynomial time (the answer cannot be found in
+  polynomial time) problems are a class of decision problems for which
+  solutions are verifiable in polynomial time.
+- Non-deterministic problems can be solved in polynomial time on a
+  'non-deterministic' Turing Machine
+
+$$P \subseteq NP , \text{ but no one knows whether } P = NP$$
+
+**** NP Problems in the real world
+
+- Scheduling a fleet of vehicles to transport items
+- Laying out a circuit board
+- Cutting up sheets of raw materials
+- Checking protein folding
+- Genome sequencing
+
+*** Class NP-Complete
+
+- NP-Complete problems are the 'hardest' problems in NP and are
+  grouped together.
+- If one NP-Complete problem can be solved in polynomial time then
+  every NP-Complete problem can be solved in polynmoial time.
+
+
+**** Examples
+
+- Decision Travelling Salesman Problem
+- Knapsack 0-1 Problem
+- 3 Colour Map Problem
+- Tower of Hanoi
+
+*** Class NP-Hard
+
+- NP-Hard problems include all NP-Complete problems.
+- The NP-Hard problems that are not in NP-Complete (NPC) are problems,
+  where even the solution cannot be checked for correctness in
+  polynomial time.
+
+(venn diagram)
+
+*** Recognising Problems

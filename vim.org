@@ -1,0 +1,15 @@
+* Cut, Copy Paste
+
+| y  | yank                 |
+| yy | yank line            |
+| y$ | yank til end of line |
+| d  | cut                  |
+| dd | cut line             |
+| p  | paste                |
+|    |                      |
+
+
+* Select
+
+| V | select line |
+|   |             |
