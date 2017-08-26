@@ -2,7 +2,53 @@
 #+TITLE: Algorithmics Unit 4 Notes
 #+OPTIONS: num:nil
 
-* Algorithm Design
+* NEXT Algorithm Design
+
+** Dynamic Programming 
+
+Algorithm patterns to consider when improving a naive algorithm. 
+
+- Naive Algorithms :: brute force/exhuastive, test all possible
+     solutions to find the best one
+- Greedy :: find a promising starting point and expand to include most
+            favourable selections until a solution is found.
+- Divide & Conquer :: break the problem into smaler independent
+     sub-problems, solve these and combine to solve the bigger
+     problem.
+- Dynammic Programming :: break the problem into smaller dependent
+     sub-problems, solve the sub-problems, storing the intermediate
+     values to solve the bigger problem.
+- Backtracking :: start at any point and progress until either a
+                  solution or unfeasible solution is reached, if the
+                  solution is unfeasible we backtrack to the previous
+                  decision point and keep looking for a solution until
+                  all options exhausted.
+
+*** Naive to DP: Bottum Up
+
+*Rod Cutting Problem*
+
+- Recursive solution:
+  - Try cutting a first piece of all possible size and make a
+    recursive call for cutting the remaining piece
+  - Add the values (of the first piece and the result of the recursive
+    call)
+  - Return the max of all these combinations
+- Recusion Tree:
+  - Number of leaves = Number of different ways to cut the rod
+  - Each path down to a leaf corresponds to a different way of cutting
+    the rod.
+
+#+BEGIN_SRC dot :file image/bagwell-digraph.png :cmdline -Kdot -Tpng
+  digraph {
+          a -> b
+  }
+#+END_SRC
+
+#+RESULTS:
+[[file:image/bagwell-digraph.png]]
+
+
 * Heuristics
 
 
