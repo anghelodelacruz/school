@@ -1,12 +1,12 @@
 #+SETUPFILE: setup.org
-#+TITLE: 4.8 Heuristics
+#+TITLE: Algorithmics Unit 4 Notes
 #+OPTIONS: num:nil
 
 
 * Heuristics
 
 
-** Tractbility
+** Tractibility
 | Problems     | Condition                                                  |
 |--------------+------------------------------------------------------------|
 | Tractable    | Problems that have reasonable polynomial-time solutions    |
