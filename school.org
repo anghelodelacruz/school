@@ -42,6 +42,15 @@
 
 *** Magit
 
+
+** Someday maybe
+
+*** Buy Vortex Pok3r
+
+*** Buy Handbrake
+
+*** Buy Assetto Corsa
+
 * Timetable
   
 #+NAME: Week_1
@@ -94,7 +103,7 @@
 ** Economics
 
 *** SAC 2
-    SCHEDULED: <2017-08-25 Fri>
+    SCHEDULED: <2017-09-25 Fri>
 
 ** Media 
 
@@ -106,7 +115,7 @@
 *** DONE SAT ANALYSIS TASK 1
     CLOSED: [2017-08-06 Sun 13:19] DEADLINE: <2017-08-04 Fri>
 
-*** SAT ANALYSIS TASK 2
+*** DONE SAT ANALYSIS TASK 2
     DEADLINE: <2017-08-25 Fri> SCHEDULED: <2017-08-21 Mon>
 
 *** SAT WRITTEN REPORT
@@ -134,6 +143,9 @@
     CLOSED: [2017-08-09 Wed 18:21] DEADLINE: <2017-08-09 Wed>
  
 
+
+*** SAC COMPARISON
+    SCHEDULED: <2017-09-12 Tue>
 
 * Links
 
