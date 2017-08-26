@@ -2,7 +2,7 @@
 #+TITLE: Algorithmics Unit 4 Notes
 #+OPTIONS: num:nil
 
-
+* Algorithm Design
 * Heuristics
 
 

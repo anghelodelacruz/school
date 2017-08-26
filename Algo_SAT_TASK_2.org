@@ -2,7 +2,7 @@
 #+TITLE: SAT ANALYSIS TASK 2
 
 
-* NEXT Question 1
+* Question 1
 
 - Using mathematical notation and computer science conventions
   describe the time complexity of the algorithm MinOP for the worst
@@ -13,7 +13,7 @@
 - Describe in detail the aspects of the methodology you would use for
   the design of the improved algortithm.
 
-* DONE Question 2
+* Question 2
 
 - Write in pseudocode your own improved time complexity version of
   this algorithm. This algorithm should use meaningful variable names,
@@ -23,7 +23,7 @@
   their time complexity.
 
 
-* TODO Question 3
+* Question 3
 
 - Describe the relationship in a methodical and systematic way using
   mathematrcal notation and computer science conventions for the time
@@ -33,7 +33,7 @@
   occur and contrast it with the type of input that results in the
   worst case time complexity for the new algorithm that you created.
 
-* TODO Question 4
+* Question 4
 - Compare your new algorithm with the orginal MinOP algorithm. Discuss
   and highlight the improvements that your new version has made and
   specify any trade-offs that you made to achieve the improvement in

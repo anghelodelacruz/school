@@ -1,8 +1,7 @@
-#+TITLE: SCHOOL PLANNER
+#+TITLE: PLANNER
 
 
 * GTD
-
 ** Emails
 
 *** NEXT Mr Robinson about recursion
@@ -28,8 +27,6 @@
 
 *** Learn Metapost
 *** Learn Evil Mode Visual
-*** DONE Evil Mode
-
 *** Themes
 
 *** AucTex
@@ -49,7 +46,7 @@
 
 *** Buy Handbrake
 
-*** Buy Assetto Corsa
+*** DONE Buy Assetto Corsa
 
 * Timetable
   

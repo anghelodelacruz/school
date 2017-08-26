@@ -427,7 +427,7 @@ used to reallocate resources during market failure. This can be done by:
 - Less effective at restricting AD durin
 
 
-* NEXT Budgetary policy in Action
+* Budgetary policy in Action
 
 ** Recent use of the budget
   

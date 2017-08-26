@@ -1,45 +1,25 @@
 #+SETUPFILE: setup.org
 #+TITLE: Mechanics
 
-** TODO Check $1kg wt = 9.8N$
+* NEXT Dynamics
 
-** Normal Reaction Force
+** Force
 
-** Inclined Planes
-   
-** Friction
+** Newton's Laws of Motion
 
-** Limiting Equilibrium
+A mass of m kg on the Earth's surface has a force of $m$ kg $wt = mg N$
+acting on it. This force is known as *weight*
 
-** 
+The *momentum* of a particle is defined as the product of its mass and
+velocity: $momentum = mass \times velocity$
 
 
-* NEXT TB
-
-** Equilibrium
-
-*** Angles other than right angles
-
-** Lami's Theorem
-
-** Other forces
-
-*** Weight Force
-
-*** Tension
-
-** Resolving forces
-
-** Inclined Planes
+** Resolution of Forces and Inclined Planes
 
 ** Connected Particles
 
-** Momentum
+** Variable Forces
 
-** Resultant Force
+** Equilibrium
 
-** Smooth Pulleys
-
-** Atwood's Machine
-
-** Connected vehicles
+** Vector Functions

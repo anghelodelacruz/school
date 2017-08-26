@@ -1,7 +1,7 @@
 #+SETUPFILE: setup.org
 #+TITLE: Practice Questions
 
-* NEXT Paper A
+* Paper A
   CLOCK: [2017-08-21 Mon 19:20]--[2017-08-21 Mon 19:52] =>  0:32
 
 ** Explain how the RBA uses open market operations to increase interest rates.

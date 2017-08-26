@@ -1,7 +1,7 @@
 #+SETUPFILE: setup.org
 #+TITLE: Algorithm Analysis Tools
 
-* TODO Algorithm Analysis Tools
+* Algorithm Analysis Tools
 
 ** Mathematical Theory
 
@@ -36,7 +36,7 @@ To represent the data of a table or a matrix, double index notation is
 commonly used. Where $x_{ij}$ corresponds to the $i$th row and the
 $j$th column item.
 
-* TODO Recurrence Relations
+* Recurrence Relations
 
 ** Arithmetic Sequence
 
@@ -50,7 +50,7 @@ This is a *linear* changing sequence shown by:
 This is an *exponential* changng sequence shown by:
 
 
-* TODO Proof by Induction
+* Proof by Induction
 
 
 There are 4 steps of math induction:
