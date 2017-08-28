@@ -2,6 +2,53 @@
 #+TITLE: Algorithmics Unit 4 Notes
 #+OPTIONS: num:nil
 
+* Mathematical Concepts 
+
+** Notation
+
+** Proof by Induction
+
+** Counting Commands
+
+* Time Complexity of Algorithms
+
+** Counting Actions
+
+** Time Complexity
+
+** Loop Invariants
+
+* Divide & Conquer
+
+** Efficient Searching
+
+** Sorting Information
+
+** Quicksort
+
+* Master Theorem
+
+** Time Complexity
+
+** Time Complexity for D&C
+
+** Master Theorem
+
+* Dynamic Programming
+
+** Coin Change Problem
+
+** Coin Change using DP
+
+** Backtracking Design Pattern
+
+* Advanced Algorithms
+
+** Case Study 1: Closest Pair of Points 1D
+
+** Case Study 2: Minimum Cost Path
+** Case Study 3: N-Queen Problem
+
 * NEXT Algorithm Design
 
 ** Dynamic Programming 
