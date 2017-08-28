@@ -425,9 +425,14 @@ Wonders and The Crucible.
 Paragraphs:
 
 - Symbols :: Fire and water
-- Supernatural Prescence :: Characters accept that the devil is within
+- Supernatural Presence :: Characters accept that the devil is within
      the town while characters in Salem through hysteria wanted to
      believe it was the devil
+
+
+
+
+
 
 Within the texts the presence of the supernatural world is used in
 several forms and through acceptance and hysteria is used to instill
@@ -443,13 +448,16 @@ contrasts with Eyam during Mompellion's sermon that 'sealed' their
 fates, where instead he suggests that out 'of his great love for us'
 the plague becomes an 'opportunity' to demonstrate faith. Here
 Mompellion brings the town together through the natural world, while
-Abigail tears it apart.
+Abigail tears it apart. This supernatural presence however has two
+distinct extremities which is evident in both texts. 'Dark and
+light... that was how I had been taught to view the world' shows how
+Anna has been brought up by the Puritans to seeing the world in a
+'black and white' lens of either God and Devil or strongly Heaven and
+Hell. This can be seen through the gullible piety in the characters in
+The Crucible and heavily shows the cataylst power of superstition.
 
 
 
-
-
-catalyst
 
 
 
@@ -460,7 +468,8 @@ catalyst
 |      |       |
 
 
-** NEXT HOMEWORK INTRODUCTION
+** 
+
 
 * Quotes
 
@@ -489,6 +498,7 @@ catalyst
 - biblical imagery :: 
 - cadence :: 
 - cosmology ::
+- catalyst :: 
 - chastise :: 
 
 

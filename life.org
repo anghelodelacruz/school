@@ -141,8 +141,11 @@
  
 
 
-*** SAC COMPARISON
-    SCHEDULED: <2017-09-12 Tue>
+*** SAC 1: Period 1/2 
+    SCHEDULED: <2017-09-12 Tue 9:05-10:40>
+
+
+
 
 * Links
 
