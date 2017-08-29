@@ -271,3 +271,10 @@ $$P \subseteq NP , \text{ but no one knows whether } P = NP$$
 (venn diagram)
 
 *** Recognising Problems
+
+
+* Time Analysis Of Recursive algorithms
+
+** Telescroping
+** Backsubstitution
+** Tree Method
