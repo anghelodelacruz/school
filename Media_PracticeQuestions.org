@@ -1,0 +1,63 @@
+#+SETUPFILE: setup.org
+#+TITLE: Media Practice Questions
+
+* Q1
+  
+- a) Identify one communication model or theory that is used to
+  suggest that the media has little influence on audiences.
+  - Reinforcement theory suggests that the media has little power to
+    influence the audience because they only reinforce preexisting
+    attitudes and beliefs.
+
+- b) Discuss the arguments and evidence used to support the
+  communication model or theory that you identified in part a.
+
+  - The theorist Joseph Klapper cites hundreds of studies to support
+    his theory which includes a study in 1948 which revealed that
+    voters were predisposed to opinions and beliefs held by their
+    families.
+
+* Q2
+
+- a) The media is subject to regulation that may define standards, set
+  limitations or place ethical parameters on it. Explain a form of
+  media regulation.
+  - The National Classification Scheme. The Attorney General's
+    Department is responsible for the classification of films, video
+    games and publications in Australia. A Classification Board and
+    Classification Review Board make decisions about the
+    classifications of these media forms. These classification
+    categories include: G, PG, M15+, MA15+, R and X. 
+- b) Discuss two arguments in favour of this type of media regulation.
+  1. Copycat behaviour
+  2. Protecting children
+  3. Protecting adults
+  4. Protecting cultural identity
+  5. Media Ownership
+
+* Q3
+
+- Discuss the influence that media forms and texts can have on an
+  audience. In your response, include the following:
+  - an example where the media is claimed to have had an influece on a
+    specific audience.
+  - relevant communication models and theories used to explain the
+    influence.
+  - substantiated arguments about the claims made in the example.
+- In 2010, the Attorney General’s Department conducted a review of
+  research into the effect of violent video games. Overall, most
+  studies have consistently shown a small statistical effect of
+  violent video game exposure on aggressive behaviour, but there are
+  problems with these findings that reduce their policy relevance. 
+  - There is stronger evidence of short-term
+  - Mortal Kombat Murderer
+  - Copycat Behaviour
+  - 
+
+
+* Q4
+
+- Compare one communication model or theory from the effects tradition
+  with a cultural studies theory.
+  - Hypodermic Needle Theory
+  - x

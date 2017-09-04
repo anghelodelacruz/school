@@ -1,7 +1,7 @@
 #+SETUPFILE: setup.org
 #+TITLE: 4.7 Algorithm Designs
 
-* TODO Algorithm Design
+* Algorithm Design
 
 ** Lesson Notes
 

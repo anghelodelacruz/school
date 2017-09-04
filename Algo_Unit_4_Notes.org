@@ -49,7 +49,7 @@
 ** Case Study 2: Minimum Cost Path
 ** Case Study 3: N-Queen Problem
 
-* NEXT Algorithm Design
+* Algorithm Design
 
 ** Dynamic Programming 
 
@@ -273,8 +273,80 @@ $$P \subseteq NP , \text{ but no one knows whether } P = NP$$
 *** Recognising Problems
 
 
+
+* Travelling Salesman Problem
+
+** Two version of TSP
+
+- Input :: There are n cities.
+- Output :: Find the shortest tour from a town particular city that
+            visit each city exactly once before returning to the city
+            where it started.
+
+- $O(n!)$ NP Hard
+
+
+
+
+
+** Heuristics for the TSP
+
+*** Randomisation
+- swapping the position of two cities on a route (mutations)
+- evolutionary algorithms
+- reversing the order of an entire section of a route
+
+*Problems*
+
+- hard to imagine that an algorithm witha randomized selection and
+  control logic can find a solution to a problem faster than any
+  deterministic algorithm can.
+- efficient randomised algorithms enable us to solve problems
+  considered intractable using deterministic algorithms.
+- randomness indicates a loss of control, of chaos, it may be seen as
+  undesirable. To accept randomness it is important to overcome its
+  association which chaos and uncertainty.
+- Mathematical models of evolutionary biology show that the random
+  mutations of DNA have to be considered a vital contribution to
+  evolution.
+
+
+*Evolutionary Algorithm*
+
+Algorithm will repearedly evaluate all the tours in the 'dish'
+- throw out the longer tours
+- replace 
+
+*** Optimisation
+- optimisation methods include Hill climbing, a greedy algorithm
+- simulated annealing and the use of optimisation and probabillity to
+  determine a possible solution to the TSP problem.
+
+
+*** Greedy Methods
+- Christofides heuristic algorithm
+
+
+**** Hill Climbing
+
+**** Simulated Annealing
+
+
+** Map Colouring Problem
+
 * Time Analysis Of Recursive algorithms
 
 ** Telescroping
 ** Backsubstitution
 ** Tree Method
+
+
+* Computation Models
+
+** DNA Computing
+
+** Quantum Computing
+
+** Turing Machine
+
+** Questions

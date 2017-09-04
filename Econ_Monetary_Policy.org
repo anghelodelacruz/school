@@ -2,7 +2,7 @@
 #+TITLE: Monetary Policy
 
 
-* TODO Monetary Policy
+* Monetary Policy
   
 Relies on changing the level of interest rates to alter the cost,
 demand and availability of credit. It has fast impact and does not
@@ -130,7 +130,7 @@ of the cash market is commonly referred to as *open market operations
   inflation overall.
 
   
-* TODO Monetary Policy in Action
+* Monetary Policy in Action
 
 ** Price Stability
 

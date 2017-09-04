@@ -1,8 +1,61 @@
 #+SETUPFILE: setup.org
 #+TITLE: Aggregate Supply
+#+OPTIONS: num:nil
 
 * Aggregate Supply
 
 =fog of war=
 
-** 
+
+
+* Questions
+
+** 13.5a
+
++ Referring to the chart, describe the movement in 'real net
+   disposable income per capita' since 2011 and examine the
+   impications this has for Australian living standards.
+  + When looking at the raw data of 2011 and now, it can be said that
+    our real dispoable income is lower than it was, implying a
+    downtrend. However since its high $14,000 it has trended down but
+    has reversed in Dec-2015 allowing a climb to $13,600. It suggests
+    that a bullish trend has begun. Relating to living standards we
+    can see that since 2011 we have had declining living standards up
+    until late September and have since then improved.
++ Explain how stronger productivity growth can help to lift average
+  incomes of Australians.
+  + Through stronger productivity growth we can improve supply side
+    conditions. This means that we can expand the production
+    possibility frontier and shift the aggregate supply curve to the
+    right. This allows prices to go down through the law of supply
+    which brings a rise in real net disposable income.
+
+** 13.5b
+
++ Distinguish microeconomic reform policy from macroeconomic policy. 
+  + Microeconomic reform policy are aimed at improving the performance
+    of particular sectors, industries or enterprises in the economy or
+    the operations of markets in the economy.
+  + Macroeconomic policy seek to influence the economy at a broad or
+    aggregate level.
+
++ Explain how MRPs can boost productivity and productive capicity. Use
+  tariff reductions to illustrate your response.
+  + Tariff reductions help to improve efficiency by forcing
+    previously-protected industries to find ways of restructuring
+    their operations in order to reduce costs and become more price
+    competitive against the cheaper imports. This allows industries to
+    boost productivity and productive capacity to retain market share.
+** 13.5c
+
++ Explain why industry assistance can result in an increase in positive externalities.
+  + 
+
+** 13.5d
+
++ Explain what is meant by the assertion that 'the size and nature of
+  industry assistance in Australia continues to be heavily influenced
+  by reactions to periodic events and disruptions.
++ Explain how government support for business to invest more in
+  renewable energy can impact on the efficiency in the allocation of
+  resources.

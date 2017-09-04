@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-=======
+#+SETUPFILE: setup.org
+#+TITLE: English
 #+OPTIONS: num:nil
 
 * The Crucible
@@ -76,7 +76,44 @@ Clerk
 - 81
   - We burn a hot fire here; it melts down all
 
-   
+ 
+** Role of Women
+
+Women are portrayed in three different ways in The Crucible. Some are
+shown as good, moral, upright people, while others are the complete
+opposite. Miller shows a balance between different people in order to
+make the story more believable. There are three different women in the
+novel with three very different personalities.
+
+*** Abigail
+
+Abigail is the clear antagonist in the play. She is a liar, a thief
+and a manipulative person. Because of the grudges she holds, and the
+complete lack of regard for the well-being of others, she ends up
+sending 19 people to thier deaths. She has an affair with John Proctor
+and she wants to be with him, so she accuses Elizabeth Proctor (as
+well as others) of witchcraft to get what she wants. She admits to
+John that she is lying about her witchcraft claims. She even says,
+"You loved me, John Proctor, and whatever sin it is, you loved me
+yet!" (Pg. 24) Abigail admits to lying, and she shows no regrets
+because she will do anything possible to get what she wants. Miller
+portrays Abigail as an evil, sick-minded woman with loose morals in
+order to show one part of the history of the witch trials, people with
+grudges taking out their anger.
+
+*** Elizabeth Proctor
+
+Elizabeth Proctor can be seen as one of the most faithful women in the
+play. Although her husband, John Proctor, committed the offense of
+adultery by having an affair with their housekeeper. Abigail Williams,
+Elizabeth was still obedient to John. When Elizabeth was asked if her
+husband. John, has committed adultery and she lied. When Danforth said
+"To your own
+
+
+ 
+
+ 
 * Year of Wonders
 
 NOTE: Incorrect to refer to Salem as within the United States.
@@ -426,10 +463,26 @@ Wonders and The Crucible.
 
 Paragraphs:
 
+- Woods
+- Animals lamb. Bird in the church.
+- Psychological
+- Birds
 - Symbols :: Fire and water
 - Supernatural Prescence :: Characters accept that the devil is within
      the town while characters in Salem through hysteria wanted to
      believe it was the devil
+
+
+
+Though the town is reliant on God, it is evident that the natural
+world has
+
+
+
+
+
+
+
 
 Within the texts the presence of the supernatural world is used in
 several forms and through acceptance and hysteria is used to instill
@@ -462,7 +515,19 @@ catalyst
 |      |       |
 
 
-** NEXT HOMEWORK INTRODUCTION
+** How are Women represented in both texts?
+
+Characters:
+- Abigail
+- Elinor
+- Rebecca Nurse
+- Anna
+- Aphra
+- Elizabeth
+
+
+
+
 
 * Quotes
 
@@ -476,22 +541,37 @@ catalyst
 	       encapsulating in miniature the characteristics of
 	       something much larger.
 - ingenuity :: the quality of being clever, original, and inventive
-- quarantine :: 
+- quarantine :: a state or place of isolation
 - foreboding :: like foreshadowing except a bad feeling
 - subjugation :: forced control by others
 - piety :: Religious devotion and reverence to God
-- extremism :: 
-- fervour :: 
-- bewitched :: 
-- flagellation :: 
-- redemption :: 
-- zealousness :: 
-- afflictions :: 
-- prodigious :: 
+- extremism :: filled with excessive and single minded zeal
+- fanatical :: extremism 
+- fervour :: intense and passionate feeling
+- bewitched :: cast a spell over someone
+- flagellation :: beating as a religious discipline or for sexual gratification
+- redemption :: being saved from sin
+- zealousness :: great energy or enthusiasm
+- afflictions :: a cause of pain or harm
+- prodigious :: remarkably or impressively great in extent
 - biblical imagery :: 
 - cadence :: 
 - cosmology ::
+- catalyst :: 
+- evicerate :: deprive or remove 
 - chastise :: 
+- conscience-stricken :: 
+- mass hysterxia :: 
+- strong-arm :: 
+- conjure :: 
+- paradox :: 
+- parochial :: 
+- conviction ::
+- flagalence :: 
+- oxygen :: energy of life
+- mannerisms :: 
+- solace :: comfort or consolation in a time of great distress or
+            sadness
 
 
 
@@ -504,4 +584,118 @@ catalyst
 - Language Analysis
 - The way in which...
 - 
->>>>>>> parent of b8fffd2... m
+
+
+** Things to work on
+
+Dont use quotes at the start of the sentence
+
+* Study Session
+
+**  Role of Vengeance in Salem
+
+- Abigail
+- Mrs Putnams
+- 
+
+- Josiah Bont :: digging graves.
+  - knives through his hands on a table =guild=
+- Aphra ::
+- Mompellion :: when Bradfords come back to Eyam
+  - he says go to hell
+  - vengeance would come through God and Hell.
+  - 
+
+
+Aphra's child name is faith
+
+
+| Salem                        | Eyam                         |
+|------------------------------+------------------------------|
+| Vengeance through characters | Vengeance is God's teachings |
+|                              |                              |
+
+Being God's infalliable instrument
+
+Characters
+- Mompellion :: treatment of town and Elizabeth "I had to be sure"; "I
+                was wrong I was shockingly wrong ...". 
+- Hale :: Rejects superstitution; goes by the book; untrue in one
+          thing untrue in everything; similar revelation/recognition
+          to Mompellion at end.
+- Parris :: Did he know that he witches where real? Find's convenience
+            in situation. Wants to protect his name after him
+            receiving death threats.
+- Danforth :: Fundamentalist; Prove to me that witches exist. Shaked
+              when Proctor is questioning. Pride. Sign the paper to
+              convince his mistakes were okay. Self righteous. He believes he is
+              resposible for deaths.
+
+
+*** Setting 
+Religious influences and the social acceptable behaviour.
+
+They turn straight to religion when not knowing what to do.
+
+Wood's was the last place on earth that God did not touch.
+
+Soil didnt wield crops. Cold
+
+How does Elinor deal with the natural world?
+Gardens. Very intune with the natrual World
+
+Anys and Mem also garden friendly.
+
+
+Water is life but also drowning
+Flames as warm but also hell.
+Seasons.
+Solice
+
+God put it there.
+Did she need to fulfil a .....
+
+*** What do these texts suggest about human behaviour in a crisis?
+
+1. People who blame God
+2. People wanna run away from it
+3. People who push the blam on someone else
+
+Unlearning vs learning
+
+=Regress=
+
+No one overcomes in the Crucible. 
+
+Eliabeth ... "Never felt worthy" 
+
+Hale effectively reaffirms the courts decision. 
+
+Vanity can be a response to human behaviour in a crisis.
+
+Bradfords heaven forbid our adultery gets out 
+
+Example that anna provides as anyone goes through the crisis. She
+doesn't match up with the other characters. She hears a
+scream. She... Anna delivers a baby and takes poppies that Momp was
+going to give. Elinor saves her out of this cycle. 
+
+It takes Elinor to take Anna out of the crisis.
+
+Salem
+
+They bail on one another 
+Giles corey .. doesn't give the names.
+
+
+When Anna loses her children. Reread.
+Tituba turns the situation around. 
+
+Anna discovers the ... bathing the children in the urine. Scream when
+throwing the urine out.
+
+
+*** Guilds
+
+
+

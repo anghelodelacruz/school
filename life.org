@@ -1,54 +1,5 @@
-<<<<<<< HEAD
-=======
 #+TITLE: PLANNER
 
-
-* GTD
-** Emails
-
-*** NEXT Mr Robinson about recursion
-*** WAITING Mrs Beckman about filming
-
-** Personal
-
-*** TODO Haircut
-    SCHEDULED: <2017-09-02 Sat +4w>
-    - State "DONE"       from "INACTIVE"   [2017-08-20 Sun 22:41]
-    :PROPERTIES:
-    :LAST_REPEAT: [2017-08-20 Sun 22:41]
-    :END:
-
-
-** LaTex
-
-*** Boxed Equations
-
-*** Tikz Package
-
-** Emacs
-
-*** Learn Metapost
-*** Learn Evil Mode Visual
-*** Themes
-
-*** AucTex
-
-*** Org Refile
-
-*** Org Capture
-
-*** Projectile
-
-*** Magit
-
-
-** Someday maybe
-
-*** Buy Vortex Pok3r
-
-*** Buy Handbrake
-
-*** DONE Buy Assetto Corsa
 
 * Timetable
   
@@ -70,6 +21,92 @@
 | Ethics | Algo    | Econ    | English | Maths   |
 | Algo   | Econ    | Maths   | Econ    | Media   |
 | Algo   | Ethics  | Media   | Maths   | Algo    |
+
+* GTD
+  
+** School
+
+*** TODO Econ [3/6]
+    DEADLINE: <2017-09-06 Wed>
+  - [ ] Past Exam Paper
+  - [X] Reading: Pg 349-356
+  - [X] 13.5a Q2,5
+  - [X] 13.5b Q3,5
+  - [ ] 13.5c Q2
+  - [ ] 13.5d Q3,6
+
+*** TODO Algo [0/1]
+    DEADLINE: <2017-09-05 Tue>
+- [ ] 4.9 Notes
+
+*** TODO Media [0/1]
+    DEADLINE: <2017-09-04 Mon>
+    :LOGBOOK:
+    CLOCK: [2017-09-03 Sun 15:41]--[2017-09-03 Sun 16:07] =>  0:26
+    :END:
+- [ ] Practice Questions
+
+*** TODO English [0/1]
+    DEADLINE: <2017-09-05 Tue>
+- [ ] Practice Piece
+- [ ] Write Notes on Themes
+
+*** Spesh Review Question [0/4]
+    DEADLINE: <2017-09-04 Mon>
+    :LOGBOOK:
+    CLOCK: [2017-09-03 Sun 18:55]--[2017-09-03 Sun 19:30] =>  0:35
+    CLOCK: [2017-09-03 Sun 16:20]--[2017-09-03 Sun 17:30] =>  1:10
+    :END:
+- [-] Chapter 13 [2/3]
+  - [X] Tech Free
+  - [X] MC
+  - [ ] Extended Response
+- [-] Chapter 14 [1/3]
+  - [ ] SA
+  - [X] MC
+  - [ ] ER
+- [ ] Chapter 15D
+  - Q1,3,4,5,7,8
+- [ ] Chapter 15E
+  - Q5,7,11,13,16
+
+** Personal
+
+*** TODO Haircut
+    SCHEDULED: <2017-09-02 Sat +4w>
+    - State "DONE"       from "INACTIVE"   [2017-08-20 Sun 22:41]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-08-20 Sun 22:41]
+    :END:
+
+** LaTex
+
+*** Learn Metapost
+*** Boxed Equations
+
+*** Tikz Package
+
+** Emacs
+
+*** Learn Evil Mode Visual
+*** AucTex
+
+*** Org Refile
+
+*** Org Capture
+
+*** Projectile
+
+*** Magit
+
+
+** Someday maybe
+
+*** Buy Vortex Pok3r
+
+*** Buy Handbrake
+
+*** DONE Buy Assetto Corsa
 
 * Exams
 
@@ -120,7 +157,7 @@
 *** SAT WRITTEN REPORT
     DEADLINE: <2017-09-22 Fri> SCHEDULED: <2017-09-18 Mon>
 
-*** SAT TEST 1
+*** DONE SAT TEST 1
     SCHEDULED: <2017-08-30 Wed 14:00>
 
 *** SAT TEST 2
@@ -146,10 +183,9 @@
 *** SAC COMPARISON
     SCHEDULED: <2017-09-12 Tue>
 
-* Links
-
-[[http://orgmode.org/worg/org-tutorials/][Org Tutorials]]
 
 
 
->>>>>>> parent of b8fffd2... m
+   
+
+
