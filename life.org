@@ -95,8 +95,6 @@
 
 *** Org Capture
 
-*** Projectile
-
 *** Magit
 
 
