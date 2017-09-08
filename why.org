@@ -1,0 +1,89 @@
+#+SETUPFILE: setup.org 
+#+TITLE: Why I use 'Emacs, latex, org-mode, evil-mode, github...'
+
+* Why
+
+** The 2 Most Important Qualities of a Programmer
+
+*** Lazy
+
+*** Dumb
+
+** The Sins of Word and Google Docs and every other application
+
+*** The Invention of the Mouse and the Cursor
+
+*** Letting your left hand know what you're right hand is doing
+
+Reading this right now, what would happen if I asked you to open word
+or even google docs. The first thing you would reach for is explained
+by the folowing:
+
+#+BEGIN_SRC ruby
+If 'right_hand' is not on 'mouse' then
+  move 'right_hand' to 'mouse'
+  click 'start_button'
+  move 'right_hand' to keyboard
+  type 'word + <RET>'
+#+END_SRC
+
+This is a tragic issue; let me explain why:
+
+- We are lazy
+- Moving our right hands to the mouse if they're not on the mouse
+  already takes time
+- Finding the cursor
+- Using the mouse takes time
+- The mouse is not accurate $\therefore$ missing one click can take 1000 $\mu s$
+- Opening word requires $2$ clicks and most and $4$ key presses of the keyboard.
+- Emacs can be opened with as little as two key strokes but I use 4. (CMD + SPC e <RET>)
+
+This means that I am able to open my editor 2 clicks and two hand
+movements from mouse to keyboard faster. This estimate this as 3
+seconds each time and lets remember that moving the mouse has
+inaccuracies. At this point this may seem like 'reductio ad absurdum'
+or the 'slippery slope' except its not. Consider the following:
+
+- There are approximately 180 days of school in a year
+- We save 3 seconds each time we open emacs.
+
+#+NAME: How many seconds we waste opening word
+#+CAPTION: Remeber the spreadsheet ability I talked of. I used that here.
+| Number of times to open | Number of times to open |
+|                       1 |                     540 |
+|                       2 |                    1080 |
+|                       3 |                    1620 |
+|                       4 |                    2160 |
+|                       5 |                    2700 |
+#+TBLFM: $2=$1*180*3
+
+So if we open word 5 times a day we waste 2700s in a year, thats not
+much really. But imagine every other thing that requires you to move
+your hand to the mouse and back to the keyboard. This takes place in
+everything including word, our browser of choice and various
+applications we use.
+
+Examples:
+- Opening a new file in word
+- Switching applications
+- Opening a new tab
+- Changing the font in word
+- Scrolling through a page like this one
+
+Yes there are shortcuts to some of these things. But they don't stay
+consist with how they are executed. For example, $alt + tab$ is
+dependent on what is currrently open and when they were last opened.
+
+If you came to count these things, than the amount of times you reach
+for the mouse would reach exponential values.
+
+** Solution
+
+- Be a programmer
+
+
+
+** Emacs is Born
+
+
+

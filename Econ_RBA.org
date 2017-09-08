@@ -1,0 +1,108 @@
+#+SETUPFILE: setup.org
+#+TITLE: Monetary Policy and Current Economic Conditions
+
+=Tom Rosewall - Senior Representative (VIC & TAS)=
+
+* Monetary Policy
+
+** 6 broad functions
+- government banking
+- market operations
+- monetary policy
+- financial stability
+- payment system oversight
+- banknotes
+  - collection and destruction
+
+** What is the role of the Reserve Bank Board?
+
+=Reserve Bank Act=
+- Economic prosperity and welfare
+- Full employment
+- Stability of the currency
+
+The best way that the rba address these outcomes is through stable
+inflation. 
+
+Inflation Target
+- to achieve an inflation rate of 2-3% on average over time.
+
+Japan facing deflation, Once prices start falling consumers start
+deferring from buying,consumption lowers.
+
+=Business Cycle=
+
+/above potential?/
+
+Currently 
+- Inflation is weak and unemp is rising.
+- Australia is currently below potential
+- 
+
+*** Transmission Mechanism
+
+- Cash rate
+- Interest rates
+- Economic activity
+- Inflation
+
+Market for funds overnight.
+
+Controlled through OMO.
+
+Influencing future expectations.
+
+* Current Economic Conditions
+
+World GDP
+
+
+- AUDUSD
+  - Best way to explain movements in exchange rate is through TOT
+- Terms of Trade
+  - Driven by commodity prices
+  - Forecasted to fall into 2019
+- GDP Growth
+  - GDP is broken down by $AD$
+  - GDP growth chart broken by each componenet
+  - Mining investment detracting from growth
+- Household Income and Consmption
+  - Reasonable good outcomes
+  - Reason not strong atm is due to income growth
+  - Saving ratio falling
+- Business investment
+  - Non-mining
+    - Caused by exchange rate
+  - Mining
+    - detracting
+- Exports
+  - 
+
+China - Contriubtions to GDP
+
+CNI - Remained steady, investment shrinking
+
+** Unemployment Rate
+
+Excess capacity in employment has caused the wages to be lower.
+
+Consumer Basket is split into tradable and non-tradable items. Wages
+are a big part of the cost of non tradables. For tradables exchange
+rate is a big part.
+
+Maintaing consumer price inflation.
+
+Underlying inflation to be at the bottom end of the 2-3 percent range.
+
+www.youtube.com/user/RBAinfo
+
+pervasive
+
+
+
+
+
+
+
+
+

@@ -26,33 +26,33 @@
   
 ** School
 
-*** TODO Econ [3/6]
-    DEADLINE: <2017-09-06 Wed>
+*** TODO Econ [4/9]
   - [ ] Past Exam Paper
   - [X] Reading: Pg 349-356
   - [X] 13.5a Q2,5
   - [X] 13.5b Q3,5
   - [ ] 13.5c Q2
   - [ ] 13.5d Q3,6
-
+  - [X] VCTA Questions
+  - [ ] Reading Ch11
+  - [ ] Reading Ch12
 *** TODO Algo [0/1]
-    DEADLINE: <2017-09-05 Tue>
 - [ ] 4.9 Notes
+- [ ] 4.10 Notes
 
-*** TODO Media [0/1]
-    DEADLINE: <2017-09-04 Mon>
+*** TODO Media [1/1]
     :LOGBOOK:
     CLOCK: [2017-09-03 Sun 15:41]--[2017-09-03 Sun 16:07] =>  0:26
     :END:
-- [ ] Practice Questions
+- [X] Practice Questions
 
 *** TODO English [0/1]
-    DEADLINE: <2017-09-05 Tue>
 - [ ] Practice Piece
 - [ ] Write Notes on Themes
+- [ ] Notes on characters
+- [ ] Read 200-300 on YOW
 
 *** Spesh Review Question [0/4]
-    DEADLINE: <2017-09-04 Mon>
     :LOGBOOK:
     CLOCK: [2017-09-03 Sun 18:55]--[2017-09-03 Sun 19:30] =>  0:35
     CLOCK: [2017-09-03 Sun 16:20]--[2017-09-03 Sun 17:30] =>  1:10
@@ -80,7 +80,7 @@
     :END:
 
 ** LaTex
-
+   
 *** Learn Metapost
 *** Boxed Equations
 
@@ -88,6 +88,7 @@
 
 ** Emacs
 
+*** persp-projectile	 
 *** Learn Evil Mode Visual
 *** AucTex
 
@@ -97,6 +98,11 @@
 
 *** Magit
 
+*** 
+
+*** 
+
+*** org-page
 
 ** Someday maybe
 
@@ -133,17 +139,31 @@
 
 *** DONE SAC 1 (Calc)
     SCHEDULED: <2017-08-11 Fri>
+*** SAC 2 - Mechanics
+    SCHEDULED: <2017-09-14 Thu>
 
 ** Economics
 
 *** SAC 2
-    SCHEDULED: <2017-09-25 Fri>
+    SCHEDULED: <2017-09-07 Thu>
+*** SAC - AS Policies
+    SCHEDULED: <2017-09-21 Thu>
 
 ** Media 
 
 *** DONE SAC
     CLOSED: [2017-08-09 Wed 18:21] SCHEDULED: <2017-08-07 Mon>
     
+*** Media Influence SAC
+    SCHEDULED: <2017-09-07 Thu>
+
+*** SAT
+    SCHEDULED: <2017-09-18 Mon>
+*** Filming Session 1
+    SCHEDULED: <2017-09-14 Thu>
+*** Filming Session 2
+    SCHEDULED: <2017-09-18 Mon>
+
 ** Algorithmics
 
 *** DONE SAT ANALYSIS TASK 1
@@ -153,7 +173,7 @@
     DEADLINE: <2017-08-25 Fri> SCHEDULED: <2017-08-21 Mon>
 
 *** SAT WRITTEN REPORT
-    DEADLINE: <2017-09-22 Fri> SCHEDULED: <2017-09-18 Mon>
+    SCHEDULED: <2017-09-18 Mon> DEADLINE: <2017-09-22 Fri>
 
 *** DONE SAT TEST 1
     SCHEDULED: <2017-08-30 Wed 14:00>
@@ -187,3 +207,4 @@
    
 
 
+    

@@ -1,63 +1,93 @@
 #+SETUPFILE: setup.org
 #+TITLE: Media Practice Questions
+#+OPTIONS: num:nil
 
-* Q1
+* 
+** Q1
   
-- a) Identify one communication model or theory that is used to
-  suggest that the media has little influence on audiences.
-  - Reinforcement theory suggests that the media has little power to
-    influence the audience because they only reinforce preexisting
-    attitudes and beliefs.
+ - a) Identify one communication model or theory that is used to
+   suggest that the media has little influence on audiences.
+   - Reinforcement theory suggests that the media has little power to
+     influence the audience because they only reinforce prexisting
+     attitudes and beliefs.
 
-- b) Discuss the arguments and evidence used to support the
-  communication model or theory that you identified in part a.
+ - b) Discuss the arguments and evidence used to support the
+   communication model or theory that you identified in part a.
 
-  - The theorist Joseph Klapper cites hundreds of studies to support
-    his theory which includes a study in 1948 which revealed that
-    voters were predisposed to opinions and beliefs held by their
-    families.
+   -
 
-* Q2
+** Q2
 
-- a) The media is subject to regulation that may define standards, set
-  limitations or place ethical parameters on it. Explain a form of
-  media regulation.
-  - The National Classification Scheme. The Attorney General's
-    Department is responsible for the classification of films, video
-    games and publications in Australia. A Classification Board and
-    Classification Review Board make decisions about the
-    classifications of these media forms. These classification
-    categories include: G, PG, M15+, MA15+, R and X. 
-- b) Discuss two arguments in favour of this type of media regulation.
-  1. Copycat behaviour
-  2. Protecting children
-  3. Protecting adults
-  4. Protecting cultural identity
-  5. Media Ownership
+ - a) The media is subject to regulation that may define standards, set
+   limitations or place ethical parameters on it. Explain a form of
+   media regulation.
+   - The National Classification Scheme. The Attorney General's
+     Department is responsible for the classification of films, video
+     games and publications in Australia. A Classification Board and
+     Classification Review Board make decisions about the
+     classifications of these media forms. These classification
+     categories include: G, PG, M15+, MA15+, R and X.
+ - b) Discuss two arguments in favour of this type of media regulation.
+   1. +Copycat behaviour+
+   2. Protecting children
+      - The classifications ranging from G to R18+ are aimed to protect
+	children from material likely to upset or disturb. These
+	restrictions also take in effects so that in the morning or
+	early afternoon these inappropriate rated content will be
+	filtered away from these times.
+   3. Protecting adults
+      - Media texts that are likely to offend are structured into a
+	classification system with consumer advice warning them of the
+	content which may contain violence or strong language so that
+	adults can decide the material they watch.
+   4. +Protecting cultural identity+
+   5. +Media Ownership+
 
-* Q3
+** Q3
 
-- Discuss the influence that media forms and texts can have on an
-  audience. In your response, include the following:
-  - an example where the media is claimed to have had an influece on a
-    specific audience.
-  - relevant communication models and theories used to explain the
-    influence.
-  - substantiated arguments about the claims made in the example.
-- In 2010, the Attorney General’s Department conducted a review of
-  research into the effect of violent video games. Overall, most
-  studies have consistently shown a small statistical effect of
-  violent video game exposure on aggressive behaviour, but there are
-  problems with these findings that reduce their policy relevance. 
-  - There is stronger evidence of short-term
-  - Mortal Kombat Murderer
-  - Copycat Behaviour
-  - 
+ - Discuss the influence that media forms and texts can have on an
+   audience. In your response, include the following:
+   - an example where the media is claimed to have had an influece on a
+     specific audience.
+   - relevant communication models and theories used to explain the
+     influence.
+   - substantiated arguments about the claims made in the example.
+ - In 2010, the Attorney General’s Department conducted a review of
+   research into the effect of violent video games. Overall, most
+   studies have consistently shown a small statistical effect of
+   violent video game exposure on aggressive behaviour, but there are
+   problems with these findings that reduce their policy relevance. In
+   this study conclusions were made such as:
+   - Stronger evidence of short-term effects rather than long-term
+   - Unexplored third variables
+   - Opposing arguments that have not been rebutted
+   - Little evidence that violent video games have a greater impact
+     than other violent media.
+ - However in contrast to this review, there are a number of case studies
+ demonstrating the effects of VVG. This includes:
+   - Copycat Behaviour
+     - Which are isolated incidents such as the Mortal Kombat killer of
+       the boy who shot his grandmother. This suggests that influence
+       takes place through the General Aggresssion Model through
+       learning, rehearsal and reinforcement which cultivates
+       aggressive beliefs and attitudes, perception, expectations,
+       behaviour scripts and desensitises.
 
 
-* Q4
+** Q4
 
-- Compare one communication model or theory from the effects tradition
-  with a cultural studies theory.
-  - Hypodermic Needle Theory
-  - x
+ - Compare one communication model or theory from the effects tradition
+   with a cultural studies theory.
+   - Hypodermic Needle Theory
+   - Semiotics
+ - The Effects tradition focuses on the effect that media texts have on
+   the audiences while cultural studies focuses on the individual media
+   consumption and the construction of meaning through
+   context. Hypodermic Needle Theory is a relatively powerful theory in
+   comparison to Semiotics as it assumes a linear effect of influence
+   that is direct on a passive audience. Semiotics however suggests
+   that media texts are constructed using a shared code which is
+   encoded by the sender and read by the receiver. Its audiences are
+   active because they construc meaning from texts. Hypodermic needle
+   theory is considered outdated as audiences are now more active.
+
