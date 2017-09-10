@@ -26,16 +26,12 @@
   
 ** School
 
-*** TODO Econ [5/9]
-  - [ ] Past Exam Paper
-  - [X] Reading: Pg 349-356
-  - [X] 13.5a Q2,5
-  - [X] 13.5b Q3,5
-  - [ ] 13.5c Q2
-  - [ ] 13.5d Q3,6
-  - [X] VCTA Questions
-  - [X] Reading Ch11
-  - [ ] Reading Ch12
+*** TODO English [0/1]
+- [ ] Practice Piece
+- [ ] Write Notes on Themes
+- [ ] Notes on characters
+- [ ] Read 200-300 on YOW
+
 *** TODO Algo [0/4]
 - [ ] 4.9 Notes
 - [ ] 4.10 Notes
@@ -57,18 +53,12 @@
   - [ ] Police light
 - [ ] SAC Questions
 
-*** TODO English [0/1]
-- [ ] Practice Piece
-- [ ] Write Notes on Themes
-- [ ] Notes on characters
-- [ ] Read 200-300 on YOW
-
-*** Spesh Review Question [0/4]
+*** Spesh Review Question [1/5]
     :LOGBOOK:
     CLOCK: [2017-09-03 Sun 18:55]--[2017-09-03 Sun 19:30] =>  0:35
     CLOCK: [2017-09-03 Sun 16:20]--[2017-09-03 Sun 17:30] =>  1:10
     :END:
-- [ ] Practice SAC
+- [X] Practice SAC
 - [-] Chapter 13 [2/3]
   - [X] Tech Free
   - [X] MC
@@ -81,6 +71,16 @@
   - Q1,3,4,5,7,8
 - [ ] Chapter 15E
   - Q5,7,11,13,16
+*** TODO Econ [5/9]
+  - [ ] Past Exam Paper
+  - [X] Reading: Pg 349-356
+  - [X] 13.5a Q2,5
+  - [X] 13.5b Q3,5
+  - [ ] 13.5c Q2
+  - [ ] 13.5d Q3,6
+  - [X] VCTA Questions
+  - [X] Reading Ch11
+  - [ ] Reading Ch12
 
 *** JS [/]
 - Poker Game [/]
